@@ -11,7 +11,8 @@ An updated list of services that fail at dark and light theme support.
 |[GG.deals](https://deals.gg)|Not synced with OS|-|-|
 |[Gmail](http://mail.google.com/)|Not synced with OS|✅|-|
 |[Epic Games Store](https://store.epicgames.com/)|No light mode|-|No light mode|
-|[Godot Editor](https://godotengine.org/)|-|-|Not synced with OS|
+|GameMaker editor|-|-|Not synced with OS|
+|[Godot editor](https://godotengine.org/)|-|-|Not synced with OS|
 |Google Docs|No dark mode|✅|-|
 |Google Sheets|No dark mode|✅|-|
 |Google Slides|No dark mode|✅|-|
