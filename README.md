@@ -17,3 +17,18 @@ An updated list of services that fail at dark and light theme support.
 ```
 (*) Requires manual page refresh
 ```
+
+## Rules
+
+Here's what you need for correct implementation of light and dark mode:
+
+- **Light mode**: Your app must be available in light mode
+- **Dark mode**: Your app must be available in dark mode
+- **Auto switch**: Your app must respect the "dark mode" setting of the user's operating system or browser. If the user changes their OS setting, the theme must be updated to match without additional input.
+- **Manual override**: The user must have an option to manually force light or dark mode, regardless of their OS preference, if they choose. The user must also be able to undo this setting, and return to auto switch
+
+Additional accessibility nice-to-haves: OLED mode, good greyscale experience, high-contrast support.
+
+## Contributing
+
+Leave a [pull request](https://github.com/jerryjappinen/dark-mode-offenders/pulls) with an update to this readme.
