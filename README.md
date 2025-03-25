@@ -5,6 +5,8 @@ An updated list of services that fail at dark and light theme support.
 |App|Android|iOS|macOS|Windows|Web|
 |-|:-:|:-:|:-:|:-:|:-:|
 |[Amazon](https://amazon.com)|No dark mode|No dark mode|–|–|No dark mode|
+|[Contentful](https://ontentful.com/)|–|–|–|–|No dark mode|
+|[Hygraph](https://hygraph.com/)|–|–|–|–|No dark mode|
 |[Deepnote](https://deepnote.com/)|–|–|–|–|No dark mode|
 |[GG.deals](https://deals.gg)|–|–|–|–|Not synced to OS|
 |[Microsoft Teams](https://teams.microsoft.com/)|✅|✅|✅|✅|Not synced to OS*|
