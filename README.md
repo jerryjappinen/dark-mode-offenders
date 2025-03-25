@@ -4,7 +4,7 @@ An updated list of apps and services that fail at dark and light theme support.
 
 |App|Web|Mobile app|Desktop app|
 |-|:-:|:-:|:-:|
-|[Amazon](https://amazon.com)|No dark mode|No dark mode|No dark mode|
+|[Amazon](https://amazon.com)|No dark mode|No dark mode|-|
 |[Booking.com](https://booking.com/)|No dark mode|No dark mode|-|
 |[Contentful](https://ontentful.com/)|No dark mode|-|-|
 |[Hygraph](https://hygraph.com/)|No dark mode|-|-|
