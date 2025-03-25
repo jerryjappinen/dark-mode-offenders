@@ -17,7 +17,7 @@ An updated list of services that fail at dark and light theme support.
 |[Microsoft Teams](https://teams.microsoft.com/)|Not synced to OS*|✅|✅|
 |[Observable](https://observablehq.com)|No dark mode|-|-|
 |[Spotify](https://spotify.com/) [[1](https://community.spotify.com/t5/Live-Ideas/All-Platforms-Light-Mode-option/idi-p/730341)]|No light mode|No light mode|No light mode|
-|Steam|No light mode|No light mode|No light mode|
+|[Steam](https://store.steampowered.com/)|No light mode|No light mode|No light mode|
 |[YouTube](https://www.youtube.com/)|Not synced to OS|✅|-|
 |[YouTube Music](https://www.youtube.com/)|No light mode|No light mode|-|
 
