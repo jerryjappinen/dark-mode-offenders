@@ -3,7 +3,7 @@
 An updated list of services that fail at dark and light theme support.
 
 |App|Android|iOS|macOS|Windows|Web|References|
-|-|:-:|:-:|:-:|:-:|:-:|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
 |[Amazon](https://amazon.com)|No dark mode|No dark mode|–|–|No dark mode||
 |[Deepnote](https://deepnote.com/)|–|–|–|–|No dark mode||
 |[GG.deals](https://deals.gg)|–|–|–|–|Not synced to OS||
