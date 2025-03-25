@@ -8,17 +8,18 @@ An updated list of services that fail at dark and light theme support.
 |[Contentful](https://ontentful.com/)|No dark mode|-|-|
 |[Hygraph](https://hygraph.com/)|No dark mode|-|-|
 |[Deepnote](https://deepnote.com/)|No dark mode|-|-|
-|[GG.deals](https://deals.gg)|Not synced to OS|-|-|
-|[Gmail](http://mail.google.com/)|Not synced to OS|✅|-|
-|Epic Games Store|No light mode|-|No light mode|
+|[GG.deals](https://deals.gg)|Not synced with OS|-|-|
+|[Gmail](http://mail.google.com/)|Not synced with OS|✅|-|
+|[Epic Games Store](https://store.epicgames.com/)|No light mode|-|No light mode|
+|[Godot Editor](https://godotengine.org/)|-|-|Not synced with OS|
 |Google Docs|No dark mode|✅|-|
 |Google Sheets|No dark mode|✅|-|
 |Google Slides|No dark mode|✅|-|
-|[Microsoft Teams](https://teams.microsoft.com/)|Not synced to OS*|✅|✅|
+|[Microsoft Teams](https://teams.microsoft.com/)|Not synced with OS*|✅|✅|
 |[Observable](https://observablehq.com)|No dark mode|-|-|
 |[Spotify](https://spotify.com/) [[1](https://community.spotify.com/t5/Live-Ideas/All-Platforms-Light-Mode-option/idi-p/730341)]|No light mode|No light mode|No light mode|
 |[Steam](https://store.steampowered.com/)|No light mode|No light mode|No light mode|
-|[YouTube](https://www.youtube.com/)|Not synced to OS|✅|-|
+|[YouTube](https://www.youtube.com/)|Not synced with OS|✅|-|
 |[YouTube Music](https://www.youtube.com/)|No light mode|No light mode|-|
 
 
