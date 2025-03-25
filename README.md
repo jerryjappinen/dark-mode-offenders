@@ -24,7 +24,7 @@ Here's what you need for correct implementation of light and dark mode:
 
 - **Light mode**: Your app must be available in light mode
 - **Dark mode**: Your app must be available in dark mode
-- **Auto switch**: Your app must respect the "dark mode" setting of the user's operating system or browser. If the user changes their OS setting, the theme must be updated to match without additional input.
+- **Auto switch**: Your app must respect the "dark mode" setting of the user's operating system or browser. If this setting changes while your app is running, the theme must update to match without additional input.
 
 Additional accessibility nice-to-haves: manual override setting, OLED mode, good greyscale experience, high-contrast support.
 
