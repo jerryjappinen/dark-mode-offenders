@@ -14,5 +14,5 @@ An updated list of services that fail at dark and light theme support.
 |YouTube Music|No light mode|No light mode|–|–|No light mode|
 
 ```
-* requires manual refresh
+(*) Requires manual page refresh
 ```
