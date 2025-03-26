@@ -25,7 +25,7 @@ Many apps and services do a great job with their light and dark mode support. Th
 |Google Slides|No dark mode|✅|-|
 |[Hacker News](http://news.ycombinator.com/)|No dark mode|-|-|
 |[Hygraph](https://hygraph.com/)|No dark mode|-|-|
-|~~[Microsoft Teams](https://teams.microsoft.com/)~~|✅|✅|✅|
+|~~Microsoft Teams~~|✅|✅|✅|
 |[Muzli](https://muz.li/)|Not synced with OS|-|-|
 |MotherDuck|No dark mode|-|-|
 |[Netflix](https://www.netflix.com/)|No light mode|No light mode|-|
