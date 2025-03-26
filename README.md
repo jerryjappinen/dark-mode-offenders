@@ -20,6 +20,7 @@ An updated list of apps and services that fail at dark and light theme support.
 |Google Slides|No dark mode|✅|-|
 |[Microsoft Teams](https://teams.microsoft.com/)|Not synced with OS*|✅|✅|
 |[Muzli](https://muz.li/)|Not synced with OS|-|-|
+|[Netflix](https://www.netflix.com/)|No light mode|No light mode|-|
 |[Observable](https://observablehq.com)|No dark mode|-|-|
 |[PayPal](https://www.paypal.com/de/home)|No dark mode|No dark mode|-|
 |[Spotify](https://spotify.com/) ([1](https://community.spotify.com/t5/Live-Ideas/All-Platforms-Light-Mode-option/idi-p/730341))|No light mode|No light mode|No light mode|
