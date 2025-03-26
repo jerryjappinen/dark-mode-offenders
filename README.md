@@ -10,6 +10,7 @@ Wall of shame for apps and services that fail at dark and light theme support.
 |[CodeSandbox](https://codesandbox.io/)|No light mode|-|-|
 |[Contentful](https://ontentful.com/)|No dark mode|-|-|
 |[Deepnote](https://deepnote.com/)|No dark mode|-|-|
+|eBay|No dark mode|✅|-|
 |[Epic Games Store](https://store.epicgames.com/)|No light mode|-|No light mode|
 |[GG.deals](https://deals.gg)|Not synced with OS|-|-|
 |GameMaker editor|-|-|Not synced with OS|
