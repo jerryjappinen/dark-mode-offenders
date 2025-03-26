@@ -53,7 +53,7 @@ Here's what you need for correct implementation of light and dark mode:
 
 - **Light mode**: App must be available in light mode.
 - **Dark mode**: App must be available in dark mode.
-- **Auto switch**: App must respect the _dark mode_ setting of the user’s OS or browser.
+- **Sync with OS**: App must respect the _dark mode_ setting of the user’s OS or browser.
   - If this setting changes, the app must match its theme without user input.
   - Optionally allows users to force their preferred theme regardless of OS setting (as long as they have a way to change it back later).
   - Auto switch should be the default behavior for new users, even if other options are available.
