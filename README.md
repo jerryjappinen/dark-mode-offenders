@@ -5,15 +5,17 @@ An updated list of apps and services that fail at dark and light theme support.
 |App|Web|Mobile app|Desktop app|
 |-|:-:|:-:|:-:|
 |[Amazon](https://amazon.com)|No dark mode|No dark mode|-|
+|[Amazon Prime Gaming](https://gaming.amazon.com/)|No light mode|-|No light mode|
 |[Booking.com](https://booking.com/)|No dark mode|No dark mode|-|
 |[Contentful](https://ontentful.com/)|No dark mode|-|-|
 |[Hygraph](https://hygraph.com/)|No dark mode|-|-|
 |[Deepnote](https://deepnote.com/)|No dark mode|-|-|
-|[GG.deals](https://deals.gg)|Not synced with OS|-|-|
-|[Gmail](http://mail.google.com/)|Not synced with OS|✅|-|
 |[Epic Games Store](https://store.epicgames.com/)|No light mode|-|No light mode|
+|[GG.deals](https://deals.gg)|Not synced with OS|-|-|
 |GameMaker editor|-|-|Not synced with OS|
+|[Gmail](http://mail.google.com/)|Not synced with OS|✅|-|
 |[Godot editor](https://godotengine.org/)|-|-|Not synced with OS|
+|[GOG.com](https://gog.com)|No dark mode|-|No light mode|
 |Google Docs|No dark mode|✅|-|
 |Google Maps|No dark mode|✅|-|
 |Google Sheets|No dark mode|✅|-|
