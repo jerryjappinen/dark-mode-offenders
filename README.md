@@ -18,6 +18,7 @@ An updated list of apps and services that fail at dark and light theme support.
 |[GOG.com](https://gog.com)|No dark mode|-|No light mode|
 |Google|Not synced with OS*|✅|-|
 |Google Docs|No dark mode|✅|-|
+|[Google Gemini](https://gemini.google.com/app)|Not synced with OS*|?|-|
 |Google Maps|No dark mode|✅|-|
 |Google Sheets|No dark mode|✅|-|
 |Google Slides|No dark mode|✅|-|
