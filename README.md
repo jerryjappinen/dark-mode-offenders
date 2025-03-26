@@ -1,6 +1,6 @@
 # Dark Mode Offenders
 
-An updated list of apps and services that fail at dark and light theme support.
+Wall of shame for apps and services that fail at dark and light theme support.
 
 |App|Web|Mobile app|Desktop app|
 |-|:-:|:-:|:-:|
