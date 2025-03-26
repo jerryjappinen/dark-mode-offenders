@@ -47,7 +47,7 @@ Here's what you need for correct implementation of light and dark mode:
   - This should be the default setting for new users.
   - You can optionally provide a way for users to force their preferred team regardless of the OS setting, as long as they have a way to change it back later.
 
-Additional accessibility nice-to-haves: manual override setting, OLED mode, good greyscale experience, high-contrast support.
+Additional accessibility nice-to-haves: manual theme selection, OLED mode, good greyscale experience, high-contrast support.
 
 ## Contributing
 
