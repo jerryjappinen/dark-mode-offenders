@@ -16,7 +16,7 @@ Wall of shame for apps and services that fail at dark and light theme support.
 |[Gmail](http://mail.google.com/)|Not synced with OS|✅|-|
 |[Godot editor](https://godotengine.org/)|-|-|Not synced with OS|
 |[GOG.com](https://gog.com)|No dark mode|-|No light mode|
-|Google|Requires page refresh|✅|-|
+|Google|Requires multiple page refreshes|✅|-|
 |Google Docs|No dark mode|✅|-|
 |[Google Gemini](https://gemini.google.com/app)|Requires page refresh|?|-|
 |Google Maps|No dark mode|✅|-|
