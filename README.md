@@ -7,8 +7,8 @@ An updated list of apps and services that fail at dark and light theme support.
 |[Amazon](https://amazon.com)|No dark mode|No dark mode|-|
 |[Amazon Prime Gaming](https://gaming.amazon.com/)|No light mode|-|No light mode|
 |[Booking.com](https://booking.com/)|No dark mode|No dark mode|-|
+|[CodeSandbox](https://codesandbox.io/)|No light mode|-|-|
 |[Contentful](https://ontentful.com/)|No dark mode|-|-|
-|[Hygraph](https://hygraph.com/)|No dark mode|-|-|
 |[Deepnote](https://deepnote.com/)|No dark mode|-|-|
 |[Epic Games Store](https://store.epicgames.com/)|No light mode|-|No light mode|
 |[GG.deals](https://deals.gg)|Not synced with OS|-|-|
@@ -20,6 +20,7 @@ An updated list of apps and services that fail at dark and light theme support.
 |Google Maps|No dark mode|✅|-|
 |Google Sheets|No dark mode|✅|-|
 |Google Slides|No dark mode|✅|-|
+|[Hygraph](https://hygraph.com/)|No dark mode|-|-|
 |[Microsoft Teams](https://teams.microsoft.com/)|Not synced with OS*|✅|✅|
 |[Muzli](https://muz.li/)|Not synced with OS|-|-|
 |[Netflix](https://www.netflix.com/)|No light mode|No light mode|-|
