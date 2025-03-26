@@ -42,7 +42,10 @@ Here's what you need for correct implementation of light and dark mode:
 
 - **Light mode**: Your app must be available in light mode
 - **Dark mode**: Your app must be available in dark mode
-- **Auto switch**: Your app must respect the "dark mode" setting of the user's operating system or browser. If this setting changes while your app is running, the theme must update to match without additional input.
+- **Auto switch**: Your app must respect the "dark mode" setting of the user's operating system or browser.
+  - If this setting changes while your app is running, the theme must update to match without additional input.
+  - This should be the default setting for new users.
+  - You can optionally provide a way for users to force their preferred team regardless of the OS setting, as long as they have a way to change it back later.
 
 Additional accessibility nice-to-haves: manual override setting, OLED mode, good greyscale experience, high-contrast support.
 
