@@ -21,6 +21,7 @@ An updated list of apps and services that fail at dark and light theme support.
 |Google Maps|No dark mode|✅|-|
 |Google Sheets|No dark mode|✅|-|
 |Google Slides|No dark mode|✅|-|
+|[Hacker News](http://news.ycombinator.com/)|No dark mode|-|-|
 |[Hygraph](https://hygraph.com/)|No dark mode|-|-|
 |[Microsoft Teams](https://teams.microsoft.com/)|Not synced with OS*|✅|✅|
 |[Muzli](https://muz.li/)|Not synced with OS|-|-|
