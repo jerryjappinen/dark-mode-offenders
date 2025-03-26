@@ -42,12 +42,12 @@ Wall of shame for apps and services that fail at dark and light theme support.
 
 Here's what you need for correct implementation of light and dark mode:
 
-- **Light mode**: Your app must be available in light mode
-- **Dark mode**: Your app must be available in dark mode
-- **Auto switch**: Your app must respect the "dark mode" setting of the user's operating system or browser.
-  - If this setting changes while your app is running, your app must match the theme without user input.
-  - You can optionally provide a way for users to force their preferred team regardless of the OS setting, as long as they have a way to change it back later.
-  - Auto switch should be the default behavior for new users, even if you have other options.
+- **Light mode**: App must be available in light mode.
+- **Dark mode**: App must be available in dark mode.
+- **Auto switch**: App must respect the _dark mode_ setting of the user’s OS or browser.
+  - If this setting changes, the app must match its theme without user input.
+  - Optionally allows users to force their preferred theme regardless of OS setting (as long as they have a way to change it back later).
+  - Auto switch should be the default behavior for new users, even if other options are available.
 
 Additional nice-to-haves: manual theme selection, OLED mode, good greyscale experience, high-contrast support.
 
