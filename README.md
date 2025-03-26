@@ -29,6 +29,7 @@ An updated list of apps and services that fail at dark and light theme support.
 |[Netflix](https://www.netflix.com/)|No light mode|No light mode|-|
 |[Observable](https://observablehq.com)|No dark mode|-|-|
 |[PayPal](https://www.paypal.com/de/home)|No dark mode|No dark mode|-|
+|[Product Hunt](https://www.producthunt.com/notifications)|No dark mode|-|-|
 |[Spotify](https://spotify.com/) ([1](https://community.spotify.com/t5/Live-Ideas/All-Platforms-Light-Mode-option/idi-p/730341))|No light mode|No light mode|No light mode|
 |[Steam](https://store.steampowered.com/)|No light mode|No light mode|No light mode|
 |[Wolfram Alpha](https://www.wolframalpha.com/)|Requires page refresh|-|-|
