@@ -32,6 +32,7 @@ An updated list of apps and services that fail at dark and light theme support.
 |[Spotify](https://spotify.com/) ([1](https://community.spotify.com/t5/Live-Ideas/All-Platforms-Light-Mode-option/idi-p/730341))|No light mode|No light mode|No light mode|
 |[Steam](https://store.steampowered.com/)|No light mode|No light mode|No light mode|
 |[Wolfram Alpha](https://www.wolframalpha.com/)|Requires page refresh|-|-|
+|[Xbox](https://www.xbox.com/en-US/play)|No light mode|No light mode|No light mode|
 |[YouTube](https://www.youtube.com/)|Not synced with OS|✅|-|
 |[YouTube Music](https://www.youtube.com/)|No light mode|No light mode|-|
 
