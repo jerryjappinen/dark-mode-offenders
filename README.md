@@ -37,7 +37,7 @@ Many apps and services do a great job with their light and dark mode support. Th
 |[Steam](https://store.steampowered.com/)|No light mode|No light mode|No light mode|
 |[Wolfram Alpha](https://www.wolframalpha.com/)|Requires page refresh|-|-|
 |[Xbox](https://www.xbox.com/en-US/play)|No light mode|No light mode|No light mode|
-|[YouTube](https://www.youtube.com/)|Not synced with OS|✅|-|
+|[YouTube](https://www.youtube.com/)|Requires page refresh|✅|-|
 |[YouTube Music](https://www.youtube.com/)|No light mode|No light mode|-|
 
 _* Fixed_
