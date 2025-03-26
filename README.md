@@ -27,6 +27,7 @@ Many apps and services do a great job with their light and dark mode support. Th
 |[Hygraph](https://hygraph.com/)|No dark mode|-|-|
 |[Microsoft Teams](https://teams.microsoft.com/)|Requires page refresh|✅|✅|
 |[Muzli](https://muz.li/)|Not synced with OS|-|-|
+|MotherDuck|No dark mode|-|-|
 |[Netflix](https://www.netflix.com/)|No light mode|No light mode|-|
 |[Observable](https://observablehq.com)|No dark mode|-|-|
 |[PayPal](https://www.paypal.com/de/home)|No dark mode|No dark mode|-|
