@@ -35,9 +35,6 @@ An updated list of apps and services that fail at dark and light theme support.
 |[YouTube](https://www.youtube.com/)|Not synced with OS|✅|-|
 |[YouTube Music](https://www.youtube.com/)|No light mode|No light mode|-|
 
-
-_(*) Requires manual page refresh_
-
 ## Rules
 
 Here's what you need for correct implementation of light and dark mode:
