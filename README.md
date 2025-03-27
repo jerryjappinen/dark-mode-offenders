@@ -30,6 +30,7 @@ Many apps and services do a great job with their light and dark mode support. Th
 |[Hacker News](http://news.ycombinator.com/)|No dark mode|-|-|
 |[Hotjar](https://hotjar.com/)|No dark mode|-|-|
 |[Hygraph](https://hygraph.com/)|No dark mode|-|-|
+|[Mailchimp](https://mailchimp.com)|No dark mode|-|-|
 |[Marimo](https://marimo.io)|Buggy|-|-|
 |~~[Microsoft Teams](https://teams.microsoft.com/)~~ *|✅|✅|✅|
 |[Medium](https://medium.com/) ([1](https://medium.com/@MattDoyle/medium-still-no-dark-mode-00a426db2e9d))|No dark mode|✅|-|
@@ -39,6 +40,7 @@ Many apps and services do a great job with their light and dark mode support. Th
 |[npmjs.com](https://www.npmjs.com/)|No dark mode|-|-|
 |[Observable](https://observablehq.com)|No dark mode|-|-|
 |[PayPal](https://www.paypal.com/de/home)|No dark mode|No dark mode|-|
+|[Postmark](https://postmarkapp.com/)|No dark mode|-|-|
 |[Product Hunt](https://www.producthunt.com/notifications)|No dark mode|-|-|
 |[Retool](https://retool.com/)|No dark mode|-|-|
 |[Spline](https://spline.design/)|No light mode|-|-|
@@ -59,7 +61,7 @@ _* Fixed_
 
 ## Contributing
 
-Leave a [pull request](https://github.com/jerryjappinen/dark-mode-offenders/pulls) with an update to this readme.
+Update `data.json` and leave a [pull request](https://github.com/jerryjappinen/dark-mode-offenders/pulls).
 
 ## Rules
 
