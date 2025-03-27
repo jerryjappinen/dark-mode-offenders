@@ -11,7 +11,7 @@ Many apps and services do a great job with their light and dark mode support. Th
 |[CodeSandbox](https://codesandbox.io/)|No light mode|-|-|
 |[Contentful](https://ontentful.com/)|No dark mode|-|-|
 |[Deepnote](https://deepnote.com/)|No dark mode|-|-|
-|eBay|No dark mode|✅|-|
+|[eBay](https://www.ebay.com/)|No dark mode|✅|-|
 |[Epic Games Store](https://store.epicgames.com/)|No light mode|-|No light mode|
 |[GG.deals](https://deals.gg)|Not synced with OS|-|-|
 |GameMaker editor|-|-|Not synced with OS|
@@ -26,6 +26,7 @@ Many apps and services do a great job with their light and dark mode support. Th
 |Google Slides|No dark mode|✅|-|
 |[Google Translate](https://translate.google.com/)|No dark mode|✅|-|
 |[Hacker News](http://news.ycombinator.com/)|No dark mode|-|-|
+|[Hotjar](https://hotjar.com/)|No dark mode|-|-|
 |[Hygraph](https://hygraph.com/)|No dark mode|-|-|
 |[Marimo](https://marimo.io)|Buggy|-|-|
 |~~[Microsoft Teams](https://teams.microsoft.com/)~~ *|✅|✅|✅|
@@ -41,6 +42,7 @@ Many apps and services do a great job with their light and dark mode support. Th
 |[Spline](https://spline.design/)|No light mode|-|-|
 |[Spotify](https://spotify.com/) ([1](https://community.spotify.com/t5/Live-Ideas/All-Platforms-Light-Mode-option/idi-p/730341))|No light mode|No light mode|No light mode|
 |[Steam](https://store.steampowered.com/)|No light mode|No light mode|No light mode|
+|[VWO](https://vwo.com/)|No dark mode|-|-|
 |[Wolfram Alpha](https://www.wolframalpha.com/)|Requires page refresh|-|-|
 |[Xbox](https://www.xbox.com/en-US/play)|No light mode|No light mode|No light mode|
 |[YouTube](https://www.youtube.com/)|Requires page refresh|✅|-|
