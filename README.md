@@ -19,11 +19,13 @@ Many apps and services do a great job with their light and dark mode support. Th
 |[Godot editor](https://godotengine.org/)|-|-|Not synced with OS|
 |[GOG.com](https://gog.com)|No dark mode|-|No light mode|
 |Google|Requires multiple page refreshes|✅|-|
+|Google Analytics|No dark mode|-|-|
 |Google Docs|No dark mode|✅|-|
 |[Google Gemini](https://gemini.google.com/app)|Requires page refresh|?|-|
 |Google Maps|No dark mode|✅|-|
 |Google Sheets|No dark mode|✅|-|
 |Google Slides|No dark mode|✅|-|
+|Google Tag Manager|No dark mode|-|-|
 |[Google Translate](https://translate.google.com/)|No dark mode|✅|-|
 |[Hacker News](http://news.ycombinator.com/)|No dark mode|-|-|
 |[Hotjar](https://hotjar.com/)|No dark mode|-|-|
@@ -42,6 +44,7 @@ Many apps and services do a great job with their light and dark mode support. Th
 |[Spline](https://spline.design/)|No light mode|-|-|
 |[Spotify](https://spotify.com/) ([1](https://community.spotify.com/t5/Live-Ideas/All-Platforms-Light-Mode-option/idi-p/730341))|No light mode|No light mode|No light mode|
 |[Steam](https://store.steampowered.com/)|No light mode|No light mode|No light mode|
+|[Stripe](https://stripe.com/)|No dark mode|-|-|
 |[VWO](https://vwo.com/)|No dark mode|-|-|
 |[Wolfram Alpha](https://www.wolframalpha.com/)|Requires page refresh|-|-|
 |[Xbox](https://www.xbox.com/en-US/play)|No light mode|No light mode|No light mode|
