@@ -31,6 +31,7 @@ Many apps and services do a great job with their light and dark mode support. Th
 |[Muzli](https://muz.li/)|Not synced with OS|-|-|
 |[MotherDuck](https://motherduck.com/)|No dark mode|-|-|
 |[Netflix](https://www.netflix.com/)|No light mode|No light mode|-|
+|[npmjs.com](https://www.npmjs.com/)|No dark mode|-|-|
 |[Observable](https://observablehq.com)|No dark mode|-|-|
 |[PayPal](https://www.paypal.com/de/home)|No dark mode|No dark mode|-|
 |[Product Hunt](https://www.producthunt.com/notifications)|No dark mode|-|-|
