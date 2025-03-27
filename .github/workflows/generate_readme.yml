@@ -31,4 +31,4 @@ jobs:
       with:
         author_name: "github-actions[bot]"
         author_email: "github-actions[bot]@users.noreply.github.com"
-        message: "Update README based on new commit"
+        message: "Updated README with new data"
