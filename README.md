@@ -28,7 +28,7 @@ Many apps and services do a great job with their light and dark mode support. Th
 |[Marimo](https://marimo.io)|Buggy|-|-|
 |~~[Microsoft Teams](https://teams.microsoft.com/)~~ *|✅|✅|✅|
 |[Muzli](https://muz.li/)|Not synced with OS|-|-|
-|MotherDuck|No dark mode|-|-|
+|[MotherDuck](https://motherduck.com/)|No dark mode|-|-|
 |[Netflix](https://www.netflix.com/)|No light mode|No light mode|-|
 |[Observable](https://observablehq.com)|No dark mode|-|-|
 |[PayPal](https://www.paypal.com/de/home)|No dark mode|No dark mode|-|
