@@ -1,0 +1,327 @@
+{
+  "updates": [
+    "March 26, 2025: Teams (web) no longer requires a page refresh for the theme to update."
+  ],
+  "apps": [
+    {
+      "name": "Airtable",
+      "url": "https://airtable.com/",
+      "web": "no_dark_mode",
+      "mobile": "unknown",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Amazon",
+      "url": "https://amazon.com",
+      "web": "no_dark_mode",
+      "mobile": "no_dark_mode",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Amazon Prime Gaming",
+      "url": "https://gaming.amazon.com/",
+      "web": "no_light_mode",
+      "mobile": "no_release",
+      "desktop": "no_light_mode"
+    },
+    {
+      "name": "Booking.com",
+      "url": "https://booking.com/",
+      "web": "no_dark_mode",
+      "mobile": "no_dark_mode",
+      "desktop": "no_release"
+    },
+    {
+      "name": "CodeSandbox",
+      "url": "https://codesandbox.io/",
+      "web": "no_light_mode",
+      "mobile": "no_release",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Contentful",
+      "url": "https://ontentful.com/",
+      "web": "no_dark_mode",
+      "mobile": "no_release",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Deepnote",
+      "url": "https://deepnote.com/",
+      "web": "no_dark_mode",
+      "mobile": "no_release",
+      "desktop": "no_release"
+    },
+    {
+      "name": "eBay",
+      "url": "https://www.ebay.com/",
+      "web": "no_dark_mode",
+      "mobile": "done",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Epic Games Store",
+      "url": "https://store.epicgames.com/",
+      "web": "no_light_mode",
+      "mobile": "no_release",
+      "desktop": "no_light_mode"
+    },
+    {
+      "name": "GG.deals",
+      "url": "https://deals.gg",
+      "web": "no_os_sync",
+      "mobile": "no_release",
+      "desktop": "no_release"
+    },
+    {
+      "name": "GameMaker editor",
+      "web": "no_release",
+      "mobile": "no_release",
+      "desktop": "no_os_sync"
+    },
+    {
+      "name": "Gmail",
+      "url": "http://mail.google.com/",
+      "web": "no_os_sync",
+      "mobile": "done",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Godot editor",
+      "url": "https://godotengine.org/",
+      "web": "no_release",
+      "mobile": "no_release",
+      "desktop": "no_os_sync"
+    },
+    {
+      "name": "GOG.com",
+      "url": "https://gog.com",
+      "web": "no_dark_mode",
+      "mobile": "no_release",
+      "desktop": "no_light_mode"
+    },
+    {
+      "name": "Google",
+      "web": "requires_refresh_multiple",
+      "mobile": "done",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Google Analytics",
+      "web": "no_dark_mode",
+      "mobile": "no_release",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Google Docs",
+      "web": "no_dark_mode",
+      "mobile": "done",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Google Gemini",
+      "url": "https://gemini.google.com/app",
+      "web": "requires_refresh",
+      "mobile": "unknown",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Google Maps",
+      "web": "no_dark_mode",
+      "mobile": "done",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Google Sheets",
+      "web": "no_dark_mode",
+      "mobile": "done",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Google Slides",
+      "web": "no_dark_mode",
+      "mobile": "done",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Google Tag Manager",
+      "web": "no_dark_mode",
+      "mobile": "no_release",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Google Translate",
+      "url": "https://translate.google.com/",
+      "web": "no_dark_mode",
+      "mobile": "done",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Hacker News",
+      "url": "http://news.ycombinator.com/",
+      "web": "no_dark_mode",
+      "mobile": "no_release",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Hotjar",
+      "url": "https://hotjar.com/",
+      "web": "no_dark_mode",
+      "mobile": "no_release",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Hygraph",
+      "url": "https://hygraph.com/",
+      "web": "no_dark_mode",
+      "mobile": "no_release",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Marimo",
+      "url": "https://marimo.io",
+      "web": "buggy",
+      "mobile": "no_release",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Microsoft Teams",
+      "url": "https://teams.microsoft.com/",
+      "web": "done",
+      "mobile": "done",
+      "desktop": "done"
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com/",
+      "web": "no_dark_mode",
+      "mobile": "done",
+      "desktop": "no_release",
+      "references": [
+        "https://medium.com/@MattDoyle/medium-still-no-dark-mode-00a426db2e9d"
+      ]
+    },
+    {
+      "name": "MotherDuck",
+      "url": "https://motherduck.com/",
+      "web": "no_dark_mode",
+      "mobile": "no_release",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Muzli",
+      "url": "https://muz.li/",
+      "web": "no_os_sync",
+      "mobile": "no_release",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com/",
+      "web": "no_light_mode",
+      "mobile": "no_light_mode",
+      "desktop": "no_release"
+    },
+    {
+      "name": "npmjs.com",
+      "url": "https://www.npmjs.com/",
+      "web": "no_dark_mode",
+      "mobile": "no_release",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Observable",
+      "url": "https://observablehq.com",
+      "web": "no_dark_mode",
+      "mobile": "no_release",
+      "desktop": "no_release"
+    },
+    {
+      "name": "PayPal",
+      "url": "https://www.paypal.com/de/home",
+      "web": "no_dark_mode",
+      "mobile": "no_dark_mode",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Product Hunt",
+      "url": "https://www.producthunt.com/notifications",
+      "web": "no_dark_mode",
+      "mobile": "no_release",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Retool",
+      "url": "https://retool.com/",
+      "web": "no_dark_mode",
+      "mobile": "no_release",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Spline",
+      "url": "https://spline.design/",
+      "web": "no_light_mode",
+      "mobile": "no_release",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://spotify.com/",
+      "web": "no_light_mode",
+      "mobile": "no_light_mode",
+      "desktop": "no_light_mode",
+      "references": [
+        "https://community.spotify.com/t5/Live-Ideas/All-Platforms-Light-Mode-option/idi-p/730341"
+      ]
+    },
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/",
+      "web": "no_light_mode",
+      "mobile": "no_light_mode",
+      "desktop": "no_light_mode"
+    },
+    {
+      "name": "Stripe",
+      "url": "https://stripe.com/",
+      "web": "no_dark_mode",
+      "mobile": "no_release",
+      "desktop": "no_release"
+    },
+    {
+      "name": "VWO",
+      "url": "https://vwo.com/",
+      "web": "no_dark_mode",
+      "mobile": "no_release",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Wolfram Alpha",
+      "url": "https://www.wolframalpha.com/",
+      "web": "requires_refresh",
+      "mobile": "no_release",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Xbox",
+      "url": "https://www.xbox.com/en-US/play",
+      "web": "no_light_mode",
+      "mobile": "no_light_mode",
+      "desktop": "no_light_mode"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/",
+      "web": "requires_refresh",
+      "mobile": "done",
+      "desktop": "no_release"
+    },
+    {
+      "name": "YouTube Music",
+      "url": "https://www.youtube.com/",
+      "web": "no_light_mode",
+      "mobile": "no_light_mode",
+      "desktop": "no_release"
+    }
+  ]  
+}
