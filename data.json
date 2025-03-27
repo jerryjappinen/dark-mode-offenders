@@ -178,6 +178,13 @@
       "desktop": "no_release"
     },
     {
+      "name": "Mailchimp",
+      "url": "https://mailchimp.com",
+      "web": "no_dark_mode",
+      "mobile": "no_release",
+      "desktop": "no_release"
+    },
+    {
       "name": "Marimo",
       "url": "https://marimo.io",
       "web": "buggy",
@@ -241,6 +248,13 @@
       "url": "https://www.paypal.com/de/home",
       "web": "no_dark_mode",
       "mobile": "no_dark_mode",
+      "desktop": "no_release"
+    },
+    {
+      "name": "Postmark",
+      "url": "https://postmarkapp.com/",
+      "web": "no_dark_mode",
+      "mobile": "no_release",
       "desktop": "no_release"
     },
     {
