@@ -3,7 +3,7 @@
 Many apps and services do a great job with their light and dark mode support. This is a wall of shame for those that do not.
 
 |App|Web|Mobile app|Desktop app|
-|-|:-:|:-:|:-:|
+|:-|:-:|:-:|:-:|
 |[Airtable](https://airtable.com/)|No dark mode|?|-|
 |[Amazon](https://amazon.com)|No dark mode|No dark mode|-|
 |[Amazon Prime Gaming](https://gaming.amazon.com/)|No light mode|-|No light mode|
