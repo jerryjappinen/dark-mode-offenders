@@ -28,13 +28,15 @@ Many apps and services do a great job with their light and dark mode support. Th
 |[Hygraph](https://hygraph.com/)|No dark mode|-|-|
 |[Marimo](https://marimo.io)|Buggy|-|-|
 |~~[Microsoft Teams](https://teams.microsoft.com/)~~ *|✅|✅|✅|
-|[Muzli](https://muz.li/)|Not synced with OS|-|-|
+|[Medium](https://medium.com) ([1](https://medium.com/@MattDoyle/medium-still-no-dark-mode-00a426db2e9d))|No dark mode|✅|-|
 |[MotherDuck](https://motherduck.com/)|No dark mode|-|-|
+|[Muzli](https://muz.li/)|Not synced with OS|-|-|
 |[Netflix](https://www.netflix.com/)|No light mode|No light mode|-|
 |[npmjs.com](https://www.npmjs.com/)|No dark mode|-|-|
 |[Observable](https://observablehq.com)|No dark mode|-|-|
 |[PayPal](https://www.paypal.com/de/home)|No dark mode|No dark mode|-|
 |[Product Hunt](https://www.producthunt.com/notifications)|No dark mode|-|-|
+|[Retool](https://retool.com/)|No dark mode|-|-|
 |[Spline](https://spline.design/)|No light mode|-|-|
 |[Spotify](https://spotify.com/) ([1](https://community.spotify.com/t5/Live-Ideas/All-Platforms-Light-Mode-option/idi-p/730341))|No light mode|No light mode|No light mode|
 |[Steam](https://store.steampowered.com/)|No light mode|No light mode|No light mode|
