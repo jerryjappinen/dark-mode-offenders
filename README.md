@@ -23,6 +23,7 @@ Many apps and services do a great job with their light and dark mode support. Th
 |Google Maps|No dark mode|✅|-|
 |Google Sheets|No dark mode|✅|-|
 |Google Slides|No dark mode|✅|-|
+|[Google Translate](https://translate.google.com/)|No dark mode|✅|-|
 |[Hacker News](http://news.ycombinator.com/)|No dark mode|-|-|
 |[Hygraph](https://hygraph.com/)|No dark mode|-|-|
 |[Marimo](https://marimo.io)|Buggy|-|-|
