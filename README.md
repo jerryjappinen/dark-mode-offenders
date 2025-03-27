@@ -32,7 +32,7 @@ Many apps and services do a great job with their light and dark mode support. Th
 |[Hygraph](https://hygraph.com/)|No dark mode|-|-|
 |[Marimo](https://marimo.io)|Buggy|-|-|
 |~~[Microsoft Teams](https://teams.microsoft.com/)~~ *|✅|✅|✅|
-|[Medium](https://medium.com) ([1](https://medium.com/@MattDoyle/medium-still-no-dark-mode-00a426db2e9d))|No dark mode|✅|-|
+|[Medium](https://medium.com/) ([1](https://medium.com/@MattDoyle/medium-still-no-dark-mode-00a426db2e9d))|No dark mode|✅|-|
 |[MotherDuck](https://motherduck.com/)|No dark mode|-|-|
 |[Muzli](https://muz.li/)|Not synced with OS|-|-|
 |[Netflix](https://www.netflix.com/)|No light mode|No light mode|-|
