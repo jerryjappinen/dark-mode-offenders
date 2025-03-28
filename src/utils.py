@@ -91,10 +91,10 @@ def generate_readme(apps, updates, base_readme_path):
 # Check and fix input CSV/JSON
 
 def normalize_apps_input(input_list):
-    apps = map(normalize_apps_input_obj, input_list)
+    apps = map(normalize_apps_input_item, input_list)
     return sorted(apps, key = lambda a: a["name"].lower())
 
-def normalize_apps_input_obj(obj):
+def normalize_apps_input_item(obj):
     name = obj["name"].strip() if "name" in obj else None
     web = obj["web"] if "web" in obj else None
     mobile = obj["mobile"] if "mobile" in obj else None
@@ -138,10 +138,10 @@ def normalize_apps_input_obj(obj):
     }
 
 def normalize_updates_input(input_list):
-    updates = map(normalize_updates_input_obj, input_list)
+    updates = map(normalize_updates_input_item, input_list)
     return sorted(updates, key = lambda u: u["date"])
 
-def normalize_updates_input_obj(obj):
+def normalize_updates_input_item(obj):
     d = obj["date"].strip() if "date" in obj else None
     description = obj["description"].strip() if "description" in obj else None
 
