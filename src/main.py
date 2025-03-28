@@ -11,7 +11,7 @@ def main(command):
     if command == "build":
         print("\n" + "✔️ Generating files...")
         build_all()
-        print(f"✔️ README.md and data.json updated" + "\n")
+        print("✔️ README.md and data.json updated" + "\n")
 
     if command == "test":
         print("\n" + "✔️ Running tests...")
