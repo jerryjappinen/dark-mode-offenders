@@ -170,7 +170,12 @@ def apps_to_stats(apps):
 
     for platform in platforms:
         res["status"][platform] = map_dict(len, group_by(apps, platform))
-        res["status"][platform]["total"] = total - res["status"][platform]["no_release"]
+
+        no_release_count = 0
+        if "no_release" in res["status"][platform]:
+            no_release_count = res["status"][platform]["no_release"]
+
+        res["status"][platform]["total"] = total - no_release_count
 
         for verdict in verdict_keys:
             if not verdict in res["status"][platform]:

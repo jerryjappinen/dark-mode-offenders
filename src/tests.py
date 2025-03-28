@@ -2,14 +2,37 @@
 """Some basic unit tests."""
 
 import datetime
-from utils import normalize_updates_input_item, app_to_md_row, group_by, map_dict, format_date
+from utils import apps_to_stats, normalize_updates_input_item, app_to_md_row, group_by, map_dict, format_date
 
 def test_all():
+    test_apps_to_stats()
     test_normalize_updates_input_item()
     test_app_to_md_row()
     test_group_by()
     test_map_dict()
     test_format_date()
+
+
+
+# stats
+def test_apps_to_stats():
+    res = apps_to_stats([{
+        "name": "App 1",
+        "references": ["https://example.com"],
+        "web": "done",
+        "mobile": "no_release",
+        "desktop": "unknown",
+        "group": "Generelle",
+        "url": None,
+        "is_done": False
+    }])
+    assert "total" in res
+    assert "is_done" in res
+    assert "groups" in res
+    assert "status" in res
+    assert res["total"] == 1
+    assert res["is_done"] == 0
+    assert res["groups"] == { "Generelle": 1 }
 
 
 
