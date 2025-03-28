@@ -106,7 +106,7 @@ def normalize_apps_input_obj(obj):
     if not references:
         references = []
     elif isinstance(references, str):
-        references = list(map(lambda s: s.strip(), references.split(",")))
+        references = list(map(lambda s: s.strip(), references.split(";")))
     elif not isinstance(references, list):
         references = [references]
 
@@ -187,7 +187,7 @@ def apps_to_csv(apps):
         "desktop",
         "url",
         "references"
-    ]) + ";\n" + "\n".join(list(map(
+    ]) + "\n" + "\n".join(list(map(
         lambda a: ";".join([
             a["group"],
             a["name"],
@@ -195,8 +195,8 @@ def apps_to_csv(apps):
             a["mobile"],
             a["desktop"],
             a["url"] if a["url"] else "",
-            ", ".join(a["references"]) if "references" in a else ""
-        ]) + ";",
+            "; ".join(a["references"]) if "references" in a else ""
+        ]),
         apps
     )))
 
