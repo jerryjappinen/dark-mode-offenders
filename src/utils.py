@@ -2,7 +2,7 @@
 """Code for managing data and building the README."""
 
 import json
-from config import verdicts
+from config import default_group, verdicts
 
 verdicts_reverse = dict((v,k) for k,v in verdicts.items())
 verdict_keys = list(verdicts.keys())
@@ -24,7 +24,7 @@ def generate_readme(data_path, base_readme_path):
     apps = normalize_apps_input(apps_input)
     # stats = compose_stats(apps)
     # stats_output = stats_to_md_table(stats)
-    apps_output = apps_to_md_table(apps)
+    apps_output = apps_to_grouped_md_table(apps)
     updates_output = updates_to_md_list(updates_input)
 
     # Replace the placeholder in the README base
@@ -51,7 +51,7 @@ def normalize_apps_input_obj(obj):
     mobile = obj["mobile"] if "mobile" in obj else None
     desktop = obj["desktop"] if "desktop" in obj else None
     url = obj["url"].strip() if "url" in obj else None
-    group = obj["group"] if "group" in obj else "General"
+    group = obj["group"] if "group" in obj else default_group
     references = obj["references"] if "references" in obj and isinstance([], list) else []
 
     if not name:
@@ -89,6 +89,7 @@ def normalize_apps_input_obj(obj):
 def compose_stats(apps):
     return {
         "total": len(apps),
+        "groups": map_dict(len, group_by(apps, "group")),
         "web": map_dict(len, group_by(apps, "web")),
         "mobile": map_dict(len, group_by(apps, "mobile")),
         "desktop": map_dict(len, group_by(apps, "desktop"))
@@ -100,6 +101,21 @@ def compose_stats(apps):
 
 def updates_to_md_list (updates):
     return "\n".join(map(lambda u: f"- { u }", updates))
+
+def apps_to_grouped_md_table (apps):
+    apps_by_group = group_by(apps, "group")
+    group_names = sorted(apps_by_group.keys())
+    if default_group in group_names:
+        group_names.remove(default_group)
+        group_names.insert(0, default_group)
+
+    md = ""
+    for i, group_name in enumerate(group_names):
+        if i:
+            md += f"### { group_name }" + "\n\n"
+        md += apps_to_md_table(apps_by_group[group_name]) + "\n\n"
+
+    return md
 
 def apps_to_md_table (apps):
     table_rows = "\n".join(map(app_to_md_row, apps))

@@ -15,69 +15,79 @@
       "url": "https://amazon.com",
       "web": "no_dark_mode",
       "mobile": "no_dark_mode",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "E-commerce"
     },
     {
       "name": "Amazon Prime Gaming",
       "url": "https://gaming.amazon.com/",
       "web": "no_light_mode",
       "mobile": "no_release",
-      "desktop": "no_light_mode"
+      "desktop": "no_light_mode",
+      "group": "Entertainment"
     },
     {
       "name": "Booking.com",
       "url": "https://booking.com/",
       "web": "no_dark_mode",
       "mobile": "no_dark_mode",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "E-commerce"
     },
     {
       "name": "CodeSandbox",
       "url": "https://codesandbox.io/",
       "web": "no_light_mode",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "Development"
     },
     {
       "name": "Contentful",
       "url": "https://ontentful.com/",
       "web": "no_dark_mode",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "Development"
     },
     {
       "name": "Deepnote",
       "url": "https://deepnote.com/",
       "web": "no_dark_mode",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "Development"
     },
     {
       "name": "eBay",
       "url": "https://www.ebay.com/",
       "web": "no_dark_mode",
       "mobile": "done",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "E-commerce"
     },
     {
       "name": "Epic Games Store",
       "url": "https://store.epicgames.com/",
       "web": "no_light_mode",
       "mobile": "no_release",
-      "desktop": "no_light_mode"
+      "desktop": "no_light_mode",
+      "group": "Entertainment"
     },
     {
       "name": "GG.deals",
       "url": "https://deals.gg",
       "web": "no_os_sync",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "Entertainment"
     },
     {
       "name": "GameMaker editor",
       "web": "no_release",
       "mobile": "no_release",
-      "desktop": "no_os_sync"
+      "desktop": "no_os_sync",
+      "group": "Development"
     },
     {
       "name": "Gmail",
@@ -91,14 +101,16 @@
       "url": "https://godotengine.org/",
       "web": "no_release",
       "mobile": "no_release",
-      "desktop": "no_os_sync"
+      "desktop": "no_os_sync",
+      "group": "Development"
     },
     {
       "name": "GOG.com",
       "url": "https://gog.com",
       "web": "no_dark_mode",
       "mobile": "no_release",
-      "desktop": "no_light_mode"
+      "desktop": "no_light_mode",
+      "group": "Entertainment"
     },
     {
       "name": "Google",
@@ -110,7 +122,8 @@
       "name": "Google Analytics",
       "web": "no_dark_mode",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "Development"
     },
     {
       "name": "Google Docs",
@@ -147,7 +160,8 @@
       "name": "Google Tag Manager",
       "web": "no_dark_mode",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "Development"
     },
     {
       "name": "Google Translate",
@@ -168,28 +182,32 @@
       "url": "https://hotjar.com/",
       "web": "no_dark_mode",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "Development"
     },
     {
       "name": "Hygraph",
       "url": "https://hygraph.com/",
       "web": "no_dark_mode",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "Development"
     },
     {
       "name": "Mailchimp",
       "url": "https://mailchimp.com",
       "web": "no_dark_mode",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "Development"
     },
     {
       "name": "Marimo",
       "url": "https://marimo.io",
       "web": "buggy",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "Development"
     },
     {
       "name": "Microsoft Teams",
@@ -213,7 +231,8 @@
       "url": "https://motherduck.com/",
       "web": "no_dark_mode",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "Development"
     },
     {
       "name": "Muzli",
@@ -227,21 +246,24 @@
       "url": "https://www.netflix.com/",
       "web": "no_light_mode",
       "mobile": "no_light_mode",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "Entertainment"
     },
     {
       "name": "npmjs.com",
       "url": "https://www.npmjs.com/",
       "web": "no_dark_mode",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "Development"
     },
     {
       "name": "Observable",
       "url": "https://observablehq.com",
       "web": "no_dark_mode",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "Development"
     },
     {
       "name": "PayPal",
@@ -255,7 +277,8 @@
       "url": "https://postmarkapp.com/",
       "web": "no_dark_mode",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "Development"
     },
     {
       "name": "Product Hunt",
@@ -269,7 +292,8 @@
       "url": "https://retool.com/",
       "web": "no_dark_mode",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "Development"
     },
     {
       "name": "Spline",
@@ -286,14 +310,16 @@
       "desktop": "no_light_mode",
       "references": [
         "https://community.spotify.com/t5/Live-Ideas/All-Platforms-Light-Mode-option/idi-p/730341"
-      ]
+      ],
+      "group": "Entertainment"
     },
     {
       "name": "Steam",
       "url": "https://store.steampowered.com/",
       "web": "no_light_mode",
       "mobile": "no_light_mode",
-      "desktop": "no_light_mode"
+      "desktop": "no_light_mode",
+      "group": "Entertainment"
     },
     {
       "name": "Stripe",
@@ -307,7 +333,8 @@
       "url": "https://vwo.com/",
       "web": "no_dark_mode",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "Development"
     },
     {
       "name": "Wolfram Alpha",
@@ -321,21 +348,24 @@
       "url": "https://www.xbox.com/en-US/play",
       "web": "no_light_mode",
       "mobile": "no_light_mode",
-      "desktop": "no_light_mode"
+      "desktop": "no_light_mode",
+      "group": "Entertainment"
     },
     {
       "name": "YouTube",
       "url": "https://www.youtube.com/",
       "web": "requires_refresh",
       "mobile": "done",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "Entertainment"
     },
     {
       "name": "YouTube Music",
       "url": "https://www.youtube.com/",
       "web": "no_light_mode",
       "mobile": "no_light_mode",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "Entertainment"
     }
   ]  
 }

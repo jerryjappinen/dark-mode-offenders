@@ -1,5 +1,7 @@
 """Configuration for validation and the README build script."""
 
+default_group = "General"
+
 verdicts = {
 
     # Implemented correctly
