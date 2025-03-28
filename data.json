@@ -1,371 +1,485 @@
 {
-  "updates": [
-    "March 26, 2025: Teams (web) no longer requires a page refresh for the theme to update."
-  ],
+  "stats": {
+    "total": 48,
+    "is_done": 1,
+    "groups": {
+      "General": 18,
+      "E-commerce": 3,
+      "Entertainment": 10,
+      "Development": 17
+    },
+    "status": {
+      "web": {
+        "no_dark_mode": 28,
+        "no_light_mode": 9,
+        "no_release": 2,
+        "no_os_sync": 3,
+        "buggy": 2,
+        "requires_refresh": 3,
+        "done": 1,
+        "total": 46,
+        "unknown": 0
+      },
+      "mobile": {
+        "unknown": 2,
+        "no_dark_mode": 3,
+        "no_release": 27,
+        "done": 11,
+        "no_light_mode": 5,
+        "total": 21,
+        "no_os_sync": 0,
+        "requires_refresh": 0,
+        "buggy": 0
+      },
+      "desktop": {
+        "no_release": 39,
+        "no_light_mode": 6,
+        "no_os_sync": 2,
+        "done": 1,
+        "total": 9,
+        "unknown": 0,
+        "no_dark_mode": 0,
+        "requires_refresh": 0,
+        "buggy": 0
+      }
+    }
+  },
   "apps": [
     {
       "name": "Airtable",
-      "url": "https://airtable.com/",
       "web": "no_dark_mode",
       "mobile": "unknown",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "url": "https://airtable.com/",
+      "group": "General",
+      "is_done": false
     },
     {
       "name": "Amazon",
-      "url": "https://amazon.com",
       "web": "no_dark_mode",
       "mobile": "no_dark_mode",
       "desktop": "no_release",
-      "group": "E-commerce"
+      "url": "https://amazon.com",
+      "group": "E-commerce",
+      "is_done": false
     },
     {
       "name": "Amazon Prime Gaming",
-      "url": "https://gaming.amazon.com/",
       "web": "no_light_mode",
       "mobile": "no_release",
       "desktop": "no_light_mode",
-      "group": "Entertainment"
+      "url": "https://gaming.amazon.com/",
+      "group": "Entertainment",
+      "is_done": false
     },
     {
       "name": "Booking.com",
-      "url": "https://booking.com/",
       "web": "no_dark_mode",
       "mobile": "no_dark_mode",
       "desktop": "no_release",
-      "group": "E-commerce"
+      "url": "https://booking.com/",
+      "group": "E-commerce",
+      "is_done": false
     },
     {
       "name": "CodeSandbox",
-      "url": "https://codesandbox.io/",
       "web": "no_light_mode",
       "mobile": "no_release",
       "desktop": "no_release",
-      "group": "Development"
+      "url": "https://codesandbox.io/",
+      "group": "Development",
+      "is_done": false
     },
     {
       "name": "Contentful",
-      "url": "https://ontentful.com/",
       "web": "no_dark_mode",
       "mobile": "no_release",
       "desktop": "no_release",
-      "group": "Development"
+      "url": "https://ontentful.com/",
+      "group": "Development",
+      "is_done": false
     },
     {
       "name": "Deepnote",
-      "url": "https://deepnote.com/",
       "web": "no_dark_mode",
       "mobile": "no_release",
       "desktop": "no_release",
-      "group": "Development"
+      "url": "https://deepnote.com/",
+      "group": "Development",
+      "is_done": false
     },
     {
       "name": "eBay",
-      "url": "https://www.ebay.com/",
       "web": "no_dark_mode",
       "mobile": "done",
       "desktop": "no_release",
-      "group": "E-commerce"
+      "url": "https://www.ebay.com/",
+      "group": "E-commerce",
+      "is_done": false
     },
     {
       "name": "Epic Games Store",
-      "url": "https://store.epicgames.com/",
       "web": "no_light_mode",
       "mobile": "no_release",
       "desktop": "no_light_mode",
-      "group": "Entertainment"
-    },
-    {
-      "name": "GG.deals",
-      "url": "https://deals.gg",
-      "web": "no_os_sync",
-      "mobile": "no_release",
-      "desktop": "no_release",
-      "group": "Entertainment"
+      "url": "https://store.epicgames.com/",
+      "group": "Entertainment",
+      "is_done": false
     },
     {
       "name": "GameMaker",
       "web": "no_release",
       "mobile": "no_release",
       "desktop": "no_os_sync",
-      "group": "Development"
+      "group": "Development",
+      "is_done": false
+    },
+    {
+      "name": "GG.deals",
+      "web": "no_os_sync",
+      "mobile": "no_release",
+      "desktop": "no_release",
+      "url": "https://deals.gg",
+      "group": "Entertainment",
+      "is_done": false
     },
     {
       "name": "Gmail",
-      "url": "http://mail.google.com/",
       "web": "no_os_sync",
       "mobile": "done",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "url": "http://mail.google.com/",
+      "group": "General",
+      "is_done": false
     },
     {
       "name": "Godot",
-      "url": "https://godotengine.org/",
       "web": "no_release",
       "mobile": "no_release",
       "desktop": "no_os_sync",
-      "group": "Development"
+      "url": "https://godotengine.org/",
+      "group": "Development",
+      "is_done": false
     },
     {
       "name": "GOG.com",
-      "url": "https://gog.com",
       "web": "no_dark_mode",
       "mobile": "no_release",
       "desktop": "no_light_mode",
-      "group": "Entertainment"
+      "url": "https://gog.com",
+      "group": "Entertainment",
+      "is_done": false
     },
     {
       "name": "Google",
-      "web": "requires_refresh_multiple",
+      "web": "buggy",
       "mobile": "done",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "General",
+      "is_done": false
     },
     {
       "name": "Google Analytics",
       "web": "no_dark_mode",
       "mobile": "no_release",
       "desktop": "no_release",
-      "group": "Development"
+      "group": "Development",
+      "is_done": false
     },
     {
       "name": "Google Docs",
       "web": "no_dark_mode",
       "mobile": "done",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "General",
+      "is_done": false
     },
     {
       "name": "Google Gemini",
-      "url": "https://gemini.google.com/app",
       "web": "requires_refresh",
       "mobile": "unknown",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "url": "https://gemini.google.com/app",
+      "group": "General",
+      "is_done": false
     },
     {
       "name": "Google Maps",
       "web": "no_dark_mode",
       "mobile": "done",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "General",
+      "is_done": false
     },
     {
       "name": "Google Sheets",
       "web": "no_dark_mode",
       "mobile": "done",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "General",
+      "is_done": false
     },
     {
       "name": "Google Slides",
       "web": "no_dark_mode",
       "mobile": "done",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "group": "General",
+      "is_done": false
     },
     {
       "name": "Google Tag Manager",
       "web": "no_dark_mode",
       "mobile": "no_release",
       "desktop": "no_release",
-      "group": "Development"
+      "group": "Development",
+      "is_done": false
     },
     {
       "name": "Google Translate",
-      "url": "https://translate.google.com/",
       "web": "no_dark_mode",
       "mobile": "done",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "url": "https://translate.google.com/",
+      "group": "General",
+      "is_done": false
     },
     {
       "name": "Hacker News",
-      "url": "http://news.ycombinator.com/",
       "web": "no_dark_mode",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "url": "http://news.ycombinator.com/",
+      "group": "General",
+      "is_done": false
     },
     {
       "name": "Hotjar",
-      "url": "https://hotjar.com/",
       "web": "no_dark_mode",
       "mobile": "no_release",
       "desktop": "no_release",
-      "group": "Development"
+      "url": "https://hotjar.com/",
+      "group": "Development",
+      "is_done": false
     },
     {
       "name": "Hygraph",
-      "url": "https://hygraph.com/",
       "web": "no_dark_mode",
       "mobile": "no_release",
       "desktop": "no_release",
-      "group": "Development"
+      "url": "https://hygraph.com/",
+      "group": "Development",
+      "is_done": false
     },
     {
       "name": "Mailchimp",
-      "url": "https://mailchimp.com",
       "web": "no_dark_mode",
       "mobile": "no_release",
       "desktop": "no_release",
-      "group": "Development"
+      "url": "https://mailchimp.com",
+      "group": "Development",
+      "is_done": false
     },
     {
       "name": "Marimo",
-      "url": "https://marimo.io",
       "web": "buggy",
       "mobile": "no_release",
       "desktop": "no_release",
-      "group": "Development"
-    },
-    {
-      "name": "Microsoft Teams",
-      "url": "https://teams.microsoft.com/",
-      "web": "done",
-      "mobile": "done",
-      "desktop": "done"
+      "url": "https://marimo.io",
+      "group": "Development",
+      "is_done": false
     },
     {
       "name": "Medium",
-      "url": "https://medium.com/",
       "web": "no_dark_mode",
       "mobile": "done",
       "desktop": "no_release",
+      "url": "https://medium.com/",
+      "group": "General",
       "references": [
         "https://medium.com/@MattDoyle/medium-still-no-dark-mode-00a426db2e9d"
-      ]
+      ],
+      "is_done": false
+    },
+    {
+      "name": "Microsoft Teams",
+      "web": "done",
+      "mobile": "done",
+      "desktop": "done",
+      "url": "https://teams.microsoft.com/",
+      "group": "General",
+      "is_done": true
     },
     {
       "name": "MotherDuck",
-      "url": "https://motherduck.com/",
       "web": "no_dark_mode",
       "mobile": "no_release",
       "desktop": "no_release",
-      "group": "Development"
+      "url": "https://motherduck.com/",
+      "group": "Development",
+      "is_done": false
     },
     {
       "name": "Muzli",
-      "url": "https://muz.li/",
       "web": "no_os_sync",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "url": "https://muz.li/",
+      "group": "General",
+      "is_done": false
     },
     {
       "name": "Netflix",
-      "url": "https://www.netflix.com/",
       "web": "no_light_mode",
       "mobile": "no_light_mode",
       "desktop": "no_release",
-      "group": "Entertainment"
+      "url": "https://www.netflix.com/",
+      "group": "Entertainment",
+      "is_done": false
     },
     {
       "name": "npmjs.com",
-      "url": "https://www.npmjs.com/",
       "web": "no_dark_mode",
       "mobile": "no_release",
       "desktop": "no_release",
-      "group": "Development"
+      "url": "https://www.npmjs.com/",
+      "group": "Development",
+      "is_done": false
     },
     {
       "name": "Observable",
-      "url": "https://observablehq.com",
       "web": "no_dark_mode",
       "mobile": "no_release",
       "desktop": "no_release",
-      "group": "Development"
+      "url": "https://observablehq.com",
+      "group": "Development",
+      "is_done": false
     },
     {
       "name": "PayPal",
-      "url": "https://www.paypal.com/de/home",
       "web": "no_dark_mode",
       "mobile": "no_dark_mode",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "url": "https://www.paypal.com/de/home",
+      "group": "General",
+      "is_done": false
     },
     {
       "name": "Postmark",
-      "url": "https://postmarkapp.com/",
       "web": "no_dark_mode",
       "mobile": "no_release",
       "desktop": "no_release",
-      "group": "Development"
+      "url": "https://postmarkapp.com/",
+      "group": "Development",
+      "is_done": false
     },
     {
       "name": "Product Hunt",
-      "url": "https://www.producthunt.com/notifications",
       "web": "no_dark_mode",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "url": "https://www.producthunt.com/notifications",
+      "group": "General",
+      "is_done": false
     },
     {
       "name": "Retool",
-      "url": "https://retool.com/",
       "web": "no_dark_mode",
       "mobile": "no_release",
       "desktop": "no_release",
-      "group": "Development"
+      "url": "https://retool.com/",
+      "group": "Development",
+      "is_done": false
     },
     {
       "name": "Spline",
-      "url": "https://spline.design/",
       "web": "no_light_mode",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "url": "https://spline.design/",
+      "group": "General",
+      "is_done": false
     },
     {
       "name": "Spotify",
-      "url": "https://spotify.com/",
       "web": "no_light_mode",
       "mobile": "no_light_mode",
       "desktop": "no_light_mode",
+      "url": "https://spotify.com/",
+      "group": "Entertainment",
       "references": [
         "https://community.spotify.com/t5/Live-Ideas/All-Platforms-Light-Mode-option/idi-p/730341"
       ],
-      "group": "Entertainment"
+      "is_done": false
     },
     {
       "name": "Steam",
-      "url": "https://store.steampowered.com/",
       "web": "no_light_mode",
       "mobile": "no_light_mode",
       "desktop": "no_light_mode",
-      "group": "Entertainment"
+      "url": "https://store.steampowered.com/",
+      "group": "Entertainment",
+      "is_done": false
     },
     {
       "name": "Stripe",
-      "url": "https://stripe.com/",
       "web": "no_dark_mode",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "url": "https://stripe.com/",
+      "group": "General",
+      "is_done": false
     },
     {
       "name": "VWO",
-      "url": "https://vwo.com/",
       "web": "no_dark_mode",
       "mobile": "no_release",
       "desktop": "no_release",
-      "group": "Development"
+      "url": "https://vwo.com/",
+      "group": "Development",
+      "is_done": false
     },
     {
       "name": "Wolfram Alpha",
-      "url": "https://www.wolframalpha.com/",
       "web": "requires_refresh",
       "mobile": "no_release",
-      "desktop": "no_release"
+      "desktop": "no_release",
+      "url": "https://www.wolframalpha.com/",
+      "group": "General",
+      "is_done": false
     },
     {
       "name": "Xbox",
-      "url": "https://www.xbox.com/en-US/play",
       "web": "no_light_mode",
       "mobile": "no_light_mode",
       "desktop": "no_light_mode",
-      "group": "Entertainment"
+      "url": "https://www.xbox.com/en-US/play",
+      "group": "Entertainment",
+      "is_done": false
     },
     {
       "name": "YouTube",
-      "url": "https://www.youtube.com/",
       "web": "requires_refresh",
       "mobile": "done",
       "desktop": "no_release",
-      "group": "Entertainment"
+      "url": "https://www.youtube.com/",
+      "group": "Entertainment",
+      "is_done": false
     },
     {
       "name": "YouTube Music",
-      "url": "https://www.youtube.com/",
       "web": "no_light_mode",
       "mobile": "no_light_mode",
       "desktop": "no_release",
-      "group": "Entertainment"
+      "url": "https://www.youtube.com/",
+      "group": "Entertainment",
+      "is_done": false
     }
-  ]  
+  ],
+  "updates": [
+    {
+      "date": "2025-03-26",
+      "description": "Teams (web) no longer requires a page refresh for the theme to update."
+    }
+  ]
 }

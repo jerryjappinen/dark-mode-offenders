@@ -1,6 +1,9 @@
 """Configuration for validation and the README build script."""
 
+# pylint: disable-next=invalid-name
 default_group = "General"
+
+platforms = ["web", "mobile", "desktop"]
 
 verdicts = {
 
@@ -24,7 +27,7 @@ verdicts = {
 
     # Dark and light themes respect OS setting, but do not update in real time
     "requires_refresh": "Requires page refresh",
-    "requires_refresh_multiple": "Requires multiple page refreshes",
+    # "requires_refresh_multiple": "Requires multiple page refreshes",
 
     # Features are there, but they don't work correctly
     "buggy": "Buggy"

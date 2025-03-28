@@ -12,7 +12,7 @@ _* Fixed_
 
 ## Contributing
 
-Update `data.json` and leave a [pull request](https://github.com/jerryjappinen/dark-mode-offenders/pulls).
+Update `apps.csv` and/or `updates.csv` and leave a [pull request](https://github.com/jerryjappinen/dark-mode-offenders/pulls).
 
 ## Rules
 

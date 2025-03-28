@@ -1,16 +1,24 @@
 """Build new README based on data.json."""
 
 import os
-from utils import generate_readme, write_to_readme
+from utils import build_files
 
-data_path = os.path.join(os.path.dirname(__file__), "../data.json")
+apps_csv_path = os.path.join(os.path.dirname(__file__), "../apps.csv")
+updates_csv_path = os.path.join(os.path.dirname(__file__), "../updates.csv")
+
+json_path = os.path.join(os.path.dirname(__file__), "../data.json")
 base_readme_path = os.path.join(os.path.dirname(__file__), "readme_base.md")
 target_readme_path = os.path.join(os.path.dirname(__file__), "../README.md")
 
 if __name__ == "__main__":
     print("\n" + "✔️ Generating new README...")
-    write_to_readme(
-        target_readme_path,
-        generate_readme(data_path, base_readme_path)
+
+    build_files(
+        apps_csv_path,
+        updates_csv_path,
+        json_path,
+        base_readme_path,
+        target_readme_path
     )
+
     print(f"✔️ README.md updated ({ os.path.normpath(target_readme_path)})" + "\n")
