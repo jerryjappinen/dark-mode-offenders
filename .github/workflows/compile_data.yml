@@ -1,4 +1,4 @@
-name: Generate README
+name: Generate README and data.json from CSV data
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  generate-readme:
+  compile-data:
     runs-on: ubuntu-latest
 
     steps:
