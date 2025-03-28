@@ -1,6 +1,9 @@
 """Configuration for validation and the README build script."""
 
 # pylint: disable-next=invalid-name
+csv_delimiter = ","
+
+# pylint: disable-next=invalid-name
 default_group = "General"
 
 platforms = ["web", "mobile", "desktop"]

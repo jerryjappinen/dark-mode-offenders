@@ -5,7 +5,7 @@ import csv
 import json
 
 from datetime import datetime
-from config import default_group, platforms, verdicts
+from config import csv_delimiter, default_group, platforms, verdicts
 
 verdicts_reverse = dict((v,k) for k,v in verdicts.items())
 verdict_keys = list(verdicts.keys())
@@ -53,12 +53,12 @@ def load_data_from_csv(apps_data_path, updates_data_path):
 
     # Load apps from CSV
     with open(apps_data_path, encoding = "utf-8", newline = "") as f:
-        dict_reader = csv.DictReader(f, delimiter = ";")
+        dict_reader = csv.DictReader(f, delimiter = ",")
         apps_input = list(dict_reader)
 
     # Load updates from CSV
     with open(updates_data_path, encoding = "utf-8", newline = "") as f:
-        dict_reader = csv.DictReader(f, delimiter = ";")
+        dict_reader = csv.DictReader(f, delimiter = ",")
         updates_input = list(dict_reader)
 
     return (apps_input, updates_input)

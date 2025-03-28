@@ -1,49 +1,49 @@
-group;name;web;mobile;desktop;url;references;
-General;Airtable;no_dark_mode;unknown;no_release;https://airtable.com/;;
-E-commerce;Amazon;no_dark_mode;no_dark_mode;no_release;https://amazon.com;;
-Entertainment;Amazon Prime Gaming;no_light_mode;no_release;no_light_mode;https://gaming.amazon.com/;;
-E-commerce;Booking.com;no_dark_mode;no_dark_mode;no_release;https://booking.com/;;
-Development;CodeSandbox;no_light_mode;no_release;no_release;https://codesandbox.io/;;
-Development;Contentful;no_dark_mode;no_release;no_release;https://ontentful.com/;;
-Development;Deepnote;no_dark_mode;no_release;no_release;https://deepnote.com/;;
-E-commerce;eBay;no_dark_mode;done;no_release;https://www.ebay.com/;;
-Entertainment;Epic Games Store;no_light_mode;no_release;no_light_mode;https://store.epicgames.com/;;
-Development;GameMaker;no_release;no_release;no_os_sync;;;
-Entertainment;GG.deals;no_os_sync;no_release;no_release;https://deals.gg;;
-General;Gmail;no_os_sync;done;no_release;http://mail.google.com/;;
-Development;Godot;no_release;no_release;no_os_sync;https://godotengine.org/;;
-Entertainment;GOG.com;no_dark_mode;no_release;no_light_mode;https://gog.com;;
-General;Google;buggy;done;no_release;;;
-Development;Google Analytics;no_dark_mode;no_release;no_release;;;
-General;Google Docs;no_dark_mode;done;no_release;;;
-General;Google Gemini;requires_refresh;unknown;no_release;https://gemini.google.com/app;;
-General;Google Maps;no_dark_mode;done;no_release;;;
-General;Google Sheets;no_dark_mode;done;no_release;;;
-General;Google Slides;no_dark_mode;done;no_release;;;
-Development;Google Tag Manager;no_dark_mode;no_release;no_release;;;
-General;Google Translate;no_dark_mode;done;no_release;https://translate.google.com/;;
-General;Hacker News;no_dark_mode;no_release;no_release;http://news.ycombinator.com/;;
-Development;Hotjar;no_dark_mode;no_release;no_release;https://hotjar.com/;;
-Development;Hygraph;no_dark_mode;no_release;no_release;https://hygraph.com/;;
-Development;Mailchimp;no_dark_mode;no_release;no_release;https://mailchimp.com;;
-Development;Marimo;buggy;no_release;no_release;https://marimo.io;;
-General;Medium;no_dark_mode;done;no_release;https://medium.com/;https://medium.com/@MattDoyle/medium-still-no-dark-mode-00a426db2e9d;
-General;Microsoft Teams;done;done;done;https://teams.microsoft.com/;;
-Development;MotherDuck;no_dark_mode;no_release;no_release;https://motherduck.com/;;
-General;Muzli;no_os_sync;no_release;no_release;https://muz.li/;;
-Entertainment;Netflix;no_light_mode;no_light_mode;no_release;https://www.netflix.com/;;
-Development;npmjs.com;no_dark_mode;no_release;no_release;https://www.npmjs.com/;;
-Development;Observable;no_dark_mode;no_release;no_release;https://observablehq.com;;
-General;PayPal;no_dark_mode;no_dark_mode;no_release;https://www.paypal.com/de/home;;
-Development;Postmark;no_dark_mode;no_release;no_release;https://postmarkapp.com/;;
-General;Product Hunt;no_dark_mode;no_release;no_release;https://www.producthunt.com/notifications;;
-Development;Retool;no_dark_mode;no_release;no_release;https://retool.com/;;
-General;Spline;no_light_mode;no_release;no_release;https://spline.design/;;
-Entertainment;Spotify;no_light_mode;no_light_mode;no_light_mode;https://spotify.com/;https://community.spotify.com/t5/Live-Ideas/All-Platforms-Light-Mode-option/idi-p/730341;
-Entertainment;Steam;no_light_mode;no_light_mode;no_light_mode;https://store.steampowered.com/;;
-General;Stripe;no_dark_mode;no_release;no_release;https://stripe.com/;;
-Development;VWO;no_dark_mode;no_release;no_release;https://vwo.com/;;
-General;Wolfram Alpha;requires_refresh;no_release;no_release;https://www.wolframalpha.com/;;
-Entertainment;Xbox;no_light_mode;no_light_mode;no_light_mode;https://www.xbox.com/en-US/play;;
-Entertainment;YouTube;requires_refresh;done;no_release;https://www.youtube.com/;;
-Entertainment;YouTube Music;no_light_mode;no_light_mode;no_release;https://www.youtube.com/;;
+group,name,web,mobile,desktop,url,references,
+General,Airtable,no_dark_mode,unknown,no_release,https://airtable.com/,,
+E-commerce,Amazon,no_dark_mode,no_dark_mode,no_release,https://amazon.com,,
+Entertainment,Amazon Prime Gaming,no_light_mode,no_release,no_light_mode,https://gaming.amazon.com/,,
+E-commerce,Booking.com,no_dark_mode,no_dark_mode,no_release,https://booking.com/,,
+Development,CodeSandbox,no_light_mode,no_release,no_release,https://codesandbox.io/,,
+Development,Contentful,no_dark_mode,no_release,no_release,https://ontentful.com/,,
+Development,Deepnote,no_dark_mode,no_release,no_release,https://deepnote.com/,,
+E-commerce,eBay,no_dark_mode,done,no_release,https://www.ebay.com/,,
+Entertainment,Epic Games Store,no_light_mode,no_release,no_light_mode,https://store.epicgames.com/,,
+Development,GameMaker,no_release,no_release,no_os_sync,,,
+Entertainment,GG.deals,no_os_sync,no_release,no_release,https://deals.gg,,
+General,Gmail,no_os_sync,done,no_release,http://mail.google.com/,,
+Development,Godot,no_release,no_release,no_os_sync,https://godotengine.org/,,
+Entertainment,GOG.com,no_dark_mode,no_release,no_light_mode,https://gog.com,,
+General,Google,buggy,done,no_release,,,
+Development,Google Analytics,no_dark_mode,no_release,no_release,,,
+General,Google Docs,no_dark_mode,done,no_release,,,
+General,Google Gemini,requires_refresh,unknown,no_release,https://gemini.google.com/app,,
+General,Google Maps,no_dark_mode,done,no_release,,,
+General,Google Sheets,no_dark_mode,done,no_release,,,
+General,Google Slides,no_dark_mode,done,no_release,,,
+Development,Google Tag Manager,no_dark_mode,no_release,no_release,,,
+General,Google Translate,no_dark_mode,done,no_release,https://translate.google.com/,,
+General,Hacker News,no_dark_mode,no_release,no_release,http://news.ycombinator.com/,,
+Development,Hotjar,no_dark_mode,no_release,no_release,https://hotjar.com/,,
+Development,Hygraph,no_dark_mode,no_release,no_release,https://hygraph.com/,,
+Development,Mailchimp,no_dark_mode,no_release,no_release,https://mailchimp.com,,
+Development,Marimo,buggy,no_release,no_release,https://marimo.io,,
+General,Medium,no_dark_mode,done,no_release,https://medium.com/,https://medium.com/@MattDoyle/medium-still-no-dark-mode-00a426db2e9d,
+General,Microsoft Teams,done,done,done,https://teams.microsoft.com/,,
+Development,MotherDuck,no_dark_mode,no_release,no_release,https://motherduck.com/,,
+General,Muzli,no_os_sync,no_release,no_release,https://muz.li/,,
+Entertainment,Netflix,no_light_mode,no_light_mode,no_release,https://www.netflix.com/,,
+Development,npmjs.com,no_dark_mode,no_release,no_release,https://www.npmjs.com/,,
+Development,Observable,no_dark_mode,no_release,no_release,https://observablehq.com,,
+General,PayPal,no_dark_mode,no_dark_mode,no_release,https://www.paypal.com/de/home,,
+Development,Postmark,no_dark_mode,no_release,no_release,https://postmarkapp.com/,,
+General,Product Hunt,no_dark_mode,no_release,no_release,https://www.producthunt.com/notifications,,
+Development,Retool,no_dark_mode,no_release,no_release,https://retool.com/,,
+General,Spline,no_light_mode,no_release,no_release,https://spline.design/,,
+Entertainment,Spotify,no_light_mode,no_light_mode,no_light_mode,https://spotify.com/,https://community.spotify.com/t5/Live-Ideas/All-Platforms-Light-Mode-option/idi-p/730341,
+Entertainment,Steam,no_light_mode,no_light_mode,no_light_mode,https://store.steampowered.com/,,
+General,Stripe,no_dark_mode,no_release,no_release,https://stripe.com/,,
+Development,VWO,no_dark_mode,no_release,no_release,https://vwo.com/,,
+General,Wolfram Alpha,requires_refresh,no_release,no_release,https://www.wolframalpha.com/,,
+Entertainment,Xbox,no_light_mode,no_light_mode,no_light_mode,https://www.xbox.com/en-US/play,,
+Entertainment,YouTube,requires_refresh,done,no_release,https://www.youtube.com/,,
+Entertainment,YouTube Music,no_light_mode,no_light_mode,no_release,https://www.youtube.com/,,
