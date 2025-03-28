@@ -43,7 +43,8 @@ def generate_readme(data_path, base_readme_path):
 # Check and fix input JSON
 
 def normalize_apps_input(json_list):
-    return list(map(normalize_apps_input_obj, json_list))
+    apps = map(normalize_apps_input_obj, json_list)
+    return sorted(apps, key = lambda a: a["name"].lower())
 
 def normalize_apps_input_obj(obj):
     name = obj["name"].strip() if "name" in obj else None
