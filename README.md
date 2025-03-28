@@ -30,8 +30,8 @@ Many apps and services do a great job with their light and dark mode support. Th
 |[CodeSandbox](https://codesandbox.io/)|No light mode|-|-|
 |[Contentful](https://ontentful.com/)|No dark mode|-|-|
 |[Deepnote](https://deepnote.com/)|No dark mode|-|-|
-|GameMaker editor|-|-|Not synced with OS|
-|[Godot editor](https://godotengine.org/)|-|-|Not synced with OS|
+|GameMaker|-|-|Not synced with OS|
+|[Godot](https://godotengine.org/)|-|-|Not synced with OS|
 |Google Analytics|No dark mode|-|-|
 |Google Tag Manager|No dark mode|-|-|
 |[Hotjar](https://hotjar.com/)|No dark mode|-|-|
