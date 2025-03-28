@@ -14,8 +14,8 @@ Many apps and services do a great job with their light and dark mode support. Th
 |Google Slides|No dark mode|✅|-|
 |[Google Translate](https://translate.google.com/)|No dark mode|✅|-|
 |[Hacker News](http://news.ycombinator.com/)|No dark mode|-|-|
-|~~[Microsoft Teams](https://teams.microsoft.com/)~~ *|✅|✅|✅|
 |[Medium](https://medium.com/) ([1](https://medium.com/@MattDoyle/medium-still-no-dark-mode-00a426db2e9d))|No dark mode|✅|-|
+|~~[Microsoft Teams](https://teams.microsoft.com/)~~ *|✅|✅|✅|
 |[Muzli](https://muz.li/)|Not synced with OS|-|-|
 |[PayPal](https://www.paypal.com/de/home)|No dark mode|No dark mode|-|
 |[Product Hunt](https://www.producthunt.com/notifications)|No dark mode|-|-|
