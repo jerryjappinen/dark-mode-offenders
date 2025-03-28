@@ -2,7 +2,7 @@
 
 Many apps and services do a great job with their light and dark mode support. This is a wall of shame for those that do not.
 
-|App|Web|Mobile app|Desktop app|
+|App<img width=220 />|Web|Mobile app|Desktop app|
 |:-|:-:|:-:|:-:|
 |[Airtable](https://airtable.com/)|No dark mode|?|-|
 |[Gmail](http://mail.google.com/)|Not synced with OS|✅|-|
@@ -25,7 +25,7 @@ Many apps and services do a great job with their light and dark mode support. Th
 
 ### Development
 
-|App|Web|Mobile app|Desktop app|
+|App<img width=220 />|Web|Mobile app|Desktop app|
 |:-|:-:|:-:|:-:|
 |[CodeSandbox](https://codesandbox.io/)|No light mode|-|-|
 |[Contentful](https://ontentful.com/)|No dark mode|-|-|
@@ -47,7 +47,7 @@ Many apps and services do a great job with their light and dark mode support. Th
 
 ### E-commerce
 
-|App|Web|Mobile app|Desktop app|
+|App<img width=220 />|Web|Mobile app|Desktop app|
 |:-|:-:|:-:|:-:|
 |[Amazon](https://amazon.com)|No dark mode|No dark mode|-|
 |[Booking.com](https://booking.com/)|No dark mode|No dark mode|-|
@@ -55,7 +55,7 @@ Many apps and services do a great job with their light and dark mode support. Th
 
 ### Entertainment
 
-|App|Web|Mobile app|Desktop app|
+|App<img width=220 />|Web|Mobile app|Desktop app|
 |:-|:-:|:-:|:-:|
 |[Amazon Prime Gaming](https://gaming.amazon.com/)|No light mode|-|No light mode|
 |[Epic Games Store](https://store.epicgames.com/)|No light mode|-|No light mode|
