@@ -83,7 +83,7 @@
       "group": "Entertainment"
     },
     {
-      "name": "GameMaker editor",
+      "name": "GameMaker",
       "web": "no_release",
       "mobile": "no_release",
       "desktop": "no_os_sync",
@@ -97,7 +97,7 @@
       "desktop": "no_release"
     },
     {
-      "name": "Godot editor",
+      "name": "Godot",
       "url": "https://godotengine.org/",
       "web": "no_release",
       "mobile": "no_release",
