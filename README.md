@@ -6,7 +6,7 @@ Many apps and services do a great job with their light and dark mode support. Th
 |:-|:-:|:-:|:-:|
 |[Airtable](https://airtable.com/)|No dark mode|?|-|
 |[Gmail](http://mail.google.com/)|Not synced with OS|✅|-|
-|Google|Requires multiple page refreshes|✅|-|
+|Google|Buggy|✅|-|
 |Google Docs|No dark mode|✅|-|
 |[Google Gemini](https://gemini.google.com/app)|Requires page refresh|?|-|
 |Google Maps|No dark mode|✅|-|
@@ -68,17 +68,15 @@ Many apps and services do a great job with their light and dark mode support. Th
 |[YouTube](https://www.youtube.com/)|Requires page refresh|✅|-|
 |[YouTube Music](https://www.youtube.com/)|No light mode|No light mode|-|
 
-
-
 _* Fixed_
 
 ## Updates
 
-- March 26, 2025: Teams (web) no longer requires a page refresh for the theme to update.
+- Mar 26, 2025: Teams (web) no longer requires a page refresh for the theme to update.
 
 ## Contributing
 
-Update `data.json` and leave a [pull request](https://github.com/jerryjappinen/dark-mode-offenders/pulls).
+Update `apps.csv` and/or `updates.csv` and leave a [pull request](https://github.com/jerryjappinen/dark-mode-offenders/pulls).
 
 ## Rules
 
