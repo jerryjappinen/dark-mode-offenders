@@ -119,7 +119,7 @@ def apps_to_grouped_md_table (apps):
 
 def apps_to_md_table (apps):
     table_rows = "\n".join(map(app_to_md_row, apps))
-    return f"""|App|Web|Mobile app|Desktop app|
+    return f"""|App<img width=220 />|Web|Mobile app|Desktop app|
 |:-|:-:|:-:|:-:|
 { table_rows }"""
 
