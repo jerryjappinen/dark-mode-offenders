@@ -179,7 +179,7 @@ def apps_to_stats(apps):
     return res
 
 def apps_to_csv(apps):
-    return ";".join([
+    return csv_delimiter.join([
         "group",
         "name",
         "web",
@@ -188,7 +188,7 @@ def apps_to_csv(apps):
         "url",
         "references"
     ]) + "\n" + "\n".join(list(map(
-        lambda a: ";".join([
+        lambda a: csv_delimiter.join([
             a["group"],
             a["name"],
             a["web"],
