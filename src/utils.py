@@ -14,22 +14,30 @@ verdict_keys = list(verdicts.keys())
 
 # Main routine
 
-def build_files(
-        apps_csv_path,
-        updates_csv_path,
-        json_path,
-        base_readme_path,
-        target_readme_path
-    ):
-
+def compose_output(apps_csv_path, updates_csv_path, base_readme_path):
     apps_input, updates_input = load_data_from_csv(apps_csv_path, updates_csv_path)
     apps = normalize_apps_input(apps_input)
     updates = normalize_updates_input(updates_input)
     stats = apps_to_stats(apps)
+    new_readme = generate_readme(apps, updates, base_readme_path)
+
+    return (apps, updates, stats, new_readme)
+
+def build_files(
+        apps_csv_path,
+        updates_csv_path,
+        base_readme_path,
+        json_path,
+        target_readme_path
+    ):
+
+    apps, updates, stats, new_readme = compose_output(
+        apps_csv_path,
+        updates_csv_path,
+        base_readme_path
+    )
 
     write_data_to_json(json_path, apps, updates, stats)
-
-    new_readme = generate_readme(apps, updates, base_readme_path)
     write_to_readme(target_readme_path, new_readme)
 
 
