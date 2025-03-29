@@ -93,6 +93,14 @@ Additional nice-to-haves: manual theme selection, OLED mode, good greyscale expe
 
 Operating systems should allow users to conveniently switch between light and dark mode, and optionally set the mode based on a schedule (such as sunrise/sunset). They should allow the wallpaper to be changed or adjusted based on which mode is in use. Unfortunately, there is still work to be done on this front.
 
+## API
+
+The offender data is available as JSON behind this URL:
+
+```
+https://raw.githubusercontent.com/jerryjappinen/dark-mode-offenders/refs/heads/main/data.json
+```
+
 ## Contributing
 
 Update `apps.csv` and/or `updates.csv` and leave a [pull request](https://github.com/jerryjappinen/dark-mode-offenders/pulls).
