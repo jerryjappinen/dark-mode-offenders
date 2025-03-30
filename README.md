@@ -68,6 +68,12 @@ Many apps and services do a great job with their light and dark mode support. Th
 |[YouTube](https://www.youtube.com/)|Requires page refresh|✅|-|
 |[YouTube Music](https://www.youtube.com/)|No light mode|No light mode|-|
 
+### Gaming
+
+|App<img width=220 />|Web|Mobile app|Desktop app|
+|:-|:-:|:-:|:-:|
+|[PCGamingWiki](https://www.pcgamingwiki.com/)|No dark mode|-|-|
+
 _* Fixed_
 
 ## Updates

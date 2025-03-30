@@ -1,29 +1,30 @@
 {
   "stats": {
-    "total": 48,
+    "total": 49,
     "is_done": 1,
     "groups": {
       "General": 18,
       "E-commerce": 3,
       "Entertainment": 10,
-      "Development": 17
+      "Development": 17,
+      "Gaming": 1
     },
     "status": {
       "web": {
-        "no_dark_mode": 28,
+        "no_dark_mode": 29,
         "no_light_mode": 9,
         "no_release": 2,
         "no_os_sync": 3,
         "buggy": 2,
         "requires_refresh": 3,
         "done": 1,
-        "total": 46,
+        "total": 47,
         "unknown": 0
       },
       "mobile": {
         "unknown": 2,
         "no_dark_mode": 3,
-        "no_release": 27,
+        "no_release": 28,
         "done": 11,
         "no_light_mode": 5,
         "total": 21,
@@ -32,7 +33,7 @@
         "buggy": 0
       },
       "desktop": {
-        "no_release": 39,
+        "no_release": 40,
         "no_light_mode": 6,
         "no_os_sync": 2,
         "done": 1,
@@ -362,6 +363,15 @@
       "desktop": "no_release",
       "url": "https://www.paypal.com/de/home",
       "group": "General",
+      "is_done": false
+    },
+    {
+      "name": "PCGamingWiki",
+      "web": "no_dark_mode",
+      "mobile": "no_release",
+      "desktop": "no_release",
+      "url": "https://www.pcgamingwiki.com/",
+      "group": "Gaming",
       "is_done": false
     },
     {
