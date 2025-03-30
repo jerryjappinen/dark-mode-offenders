@@ -5,9 +5,8 @@
     "groups": {
       "General": 18,
       "E-commerce": 3,
-      "Entertainment": 10,
-      "Development": 17,
-      "Gaming": 1
+      "Entertainment": 11,
+      "Development": 17
     },
     "status": {
       "web": {
@@ -371,7 +370,7 @@
       "mobile": "no_release",
       "desktop": "no_release",
       "url": "https://www.pcgamingwiki.com/",
-      "group": "Gaming",
+      "group": "Entertainment",
       "is_done": false
     },
     {

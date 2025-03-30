@@ -62,17 +62,12 @@ Many apps and services do a great job with their light and dark mode support. Th
 |[GG.deals](https://deals.gg)|Not synced with OS|-|-|
 |[GOG.com](https://gog.com)|No dark mode|-|No light mode|
 |[Netflix](https://www.netflix.com/)|No light mode|No light mode|-|
+|[PCGamingWiki](https://www.pcgamingwiki.com/)|No dark mode|-|-|
 |[Spotify](https://spotify.com/) ([1](https://community.spotify.com/t5/Live-Ideas/All-Platforms-Light-Mode-option/idi-p/730341))|No light mode|No light mode|No light mode|
 |[Steam](https://store.steampowered.com/)|No light mode|No light mode|No light mode|
 |[Xbox](https://www.xbox.com/en-US/play)|No light mode|No light mode|No light mode|
 |[YouTube](https://www.youtube.com/)|Requires page refresh|✅|-|
 |[YouTube Music](https://www.youtube.com/)|No light mode|No light mode|-|
-
-### Gaming
-
-|App<img width=220 />|Web|Mobile app|Desktop app|
-|:-|:-:|:-:|:-:|
-|[PCGamingWiki](https://www.pcgamingwiki.com/)|No dark mode|-|-|
 
 _* Fixed_
 
