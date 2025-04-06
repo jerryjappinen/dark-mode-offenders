@@ -61,13 +61,13 @@ def load_data_from_csv(apps_data_path, updates_data_path):
 
     # Load apps from CSV
     with open(apps_data_path, encoding = "utf-8", newline = "") as f:
-        dict_reader = csv.DictReader(f, delimiter = csv_delimiter)
-        apps_input = list(dict_reader)
+        dict_reader = csv.DictReader(f, delimiter = csv_delimiter, skipinitialspace = True)
+        apps_input = strip_keys_and_values_each(list(dict_reader))
 
     # Load updates from CSV
     with open(updates_data_path, encoding = "utf-8", newline = "") as f:
-        dict_reader = csv.DictReader(f, delimiter = csv_delimiter)
-        updates_input = list(dict_reader)
+        dict_reader = csv.DictReader(f, delimiter = csv_delimiter, skipinitialspace = True)
+        updates_input = strip_keys_and_values_each(list(dict_reader))
 
     return (apps_input, updates_input)
 
@@ -103,11 +103,11 @@ def normalize_apps_input(input_list):
     return sorted(apps, key = lambda a: a["name"].lower())
 
 def normalize_apps_input_item(obj):
-    name = obj["name"].strip() if "name" in obj else None
+    name = obj["name"] if "name" in obj else None
     web = obj["web"] if "web" in obj else None
     mobile = obj["mobile"] if "mobile" in obj else None
     desktop = obj["desktop"] if "desktop" in obj else None
-    url = obj["url"].strip() if "url" in obj else None
+    url = obj["url"] if "url" in obj else None
     group = obj["group"] if "group" in obj else default_group
     references = obj["references"] if "references" in obj else None
 
@@ -318,6 +318,15 @@ def md_row_to_app_input(row):
 
 # Utils
 
+# https://stackoverflow.com/questions/46318714/how-do-i-generate-a-python-timestamp-to-a-particular-format
+def format_date (timestamp):
+    return timestamp.strftime("%b %d, %Y")
+
+def strip (s):
+    return s.strip()
+
+# ---
+
 def group_by (data_as_list, key):
     res = {}
     for item in data_as_list:
@@ -326,9 +335,14 @@ def group_by (data_as_list, key):
         res[item[key]].append(item)
     return res
 
+def strip_keys_and_values(dict_to_map):
+    return map_dict(strip, map_dict_keys(strip, dict_to_map))
+
+def strip_keys_and_values_each(list_of_dicts_to_map):
+    return map(strip_keys_and_values, list_of_dicts_to_map)
+
 def map_dict (callback, dict_to_map):
     return dict(map(lambda kv: (kv[0], callback(kv[1])), dict_to_map.items()))
 
-# https://stackoverflow.com/questions/46318714/how-do-i-generate-a-python-timestamp-to-a-particular-format
-def format_date (timestamp):
-    return timestamp.strftime("%b %d, %Y")
+def map_dict_keys(callback, dict_to_map):
+    return {callback(k): v for k, v in dict_to_map.items()}
