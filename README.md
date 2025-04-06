@@ -8,6 +8,7 @@ Many apps and services do a great job with their light and dark mode support. Th
 |[Gmail](http://mail.google.com/)|Not synced with OS|✅|-|
 |Google|Buggy|✅|-|
 |Google Docs|No dark mode|✅|-|
+|[Google Fonts](https://fonts.google.com/)|Not synced with OS|-|-|
 |[Google Gemini](https://gemini.google.com/app)|Requires page refresh|?|-|
 |Google Maps|No dark mode|✅|-|
 |Google Sheets|No dark mode|✅|-|

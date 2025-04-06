@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total": 49,
+    "total": 50,
     "is_done": 1,
     "groups": {
-      "General": 18,
+      "General": 19,
       "E-commerce": 3,
       "Entertainment": 11,
       "Development": 17
@@ -13,17 +13,17 @@
         "no_dark_mode": 29,
         "no_light_mode": 9,
         "no_release": 2,
-        "no_os_sync": 3,
+        "no_os_sync": 4,
         "buggy": 2,
         "requires_refresh": 3,
         "done": 1,
-        "total": 47,
+        "total": 48,
         "unknown": 0
       },
       "mobile": {
         "unknown": 2,
         "no_dark_mode": 3,
-        "no_release": 28,
+        "no_release": 29,
         "done": 11,
         "no_light_mode": 5,
         "total": 21,
@@ -32,7 +32,7 @@
         "buggy": 0
       },
       "desktop": {
-        "no_release": 40,
+        "no_release": 41,
         "no_light_mode": 6,
         "no_os_sync": 2,
         "done": 1,
@@ -191,6 +191,15 @@
       "web": "no_dark_mode",
       "mobile": "done",
       "desktop": "no_release",
+      "group": "General",
+      "is_done": false
+    },
+    {
+      "name": "Google Fonts",
+      "web": "no_os_sync",
+      "mobile": "no_release",
+      "desktop": "no_release",
+      "url": "https://fonts.google.com/",
       "group": "General",
       "is_done": false
     },
