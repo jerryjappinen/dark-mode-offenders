@@ -42,6 +42,7 @@ Many apps and services do a great job with their light and dark mode support. Th
 |[MotherDuck](https://motherduck.com/)|No dark mode|-|-|
 |[npmjs.com](https://www.npmjs.com/)|No dark mode|-|-|
 |[Observable](https://observablehq.com)|No dark mode|-|-|
+|[Overleaf](https://overleaf.com)|Not synced with OS|-|-|
 |[Postmark](https://postmarkapp.com/)|No dark mode|-|-|
 |[Retool](https://retool.com/)|No dark mode|-|-|
 |[VWO](https://vwo.com/)|No dark mode|-|-|

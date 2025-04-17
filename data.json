@@ -1,29 +1,29 @@
 {
   "stats": {
-    "total": 50,
+    "total": 51,
     "is_done": 1,
     "groups": {
       "General": 19,
       "E-commerce": 3,
       "Entertainment": 11,
-      "Development": 17
+      "Development": 18
     },
     "status": {
       "web": {
         "no_dark_mode": 29,
         "no_light_mode": 9,
         "no_release": 2,
-        "no_os_sync": 4,
+        "no_os_sync": 5,
         "buggy": 2,
         "requires_refresh": 3,
         "done": 1,
-        "total": 48,
+        "total": 49,
         "unknown": 0
       },
       "mobile": {
         "unknown": 2,
         "no_dark_mode": 3,
-        "no_release": 29,
+        "no_release": 30,
         "done": 11,
         "no_light_mode": 5,
         "total": 21,
@@ -32,7 +32,7 @@
         "buggy": 0
       },
       "desktop": {
-        "no_release": 41,
+        "no_release": 42,
         "no_light_mode": 6,
         "no_os_sync": 2,
         "done": 1,
@@ -361,6 +361,15 @@
       "mobile": "no_release",
       "desktop": "no_release",
       "url": "https://observablehq.com",
+      "group": "Development",
+      "is_done": false
+    },
+    {
+      "name": "Overleaf",
+      "web": "no_os_sync",
+      "mobile": "no_release",
+      "desktop": "no_release",
+      "url": "https://overleaf.com",
       "group": "Development",
       "is_done": false
     },
