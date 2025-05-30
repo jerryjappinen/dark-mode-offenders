@@ -20,6 +20,7 @@ Many apps and services do a great job with their light and dark mode support. Th
 |[Muzli](https://muz.li/)|Not synced with OS|-|-|
 |[PayPal](https://www.paypal.com/de/home)|No dark mode|No dark mode|-|
 |[Product Hunt](https://www.producthunt.com/notifications)|No dark mode|-|-|
+|[Reddit](https://reddit.com/)|Not synced with OS|✅|-|
 |[Spline](https://spline.design/)|No light mode|-|-|
 |[Stripe](https://stripe.com/)|No dark mode|-|-|
 |[Wolfram Alpha](https://www.wolframalpha.com/)|Requires page refresh|-|-|
