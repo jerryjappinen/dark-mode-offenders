@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total": 51,
+    "total": 52,
     "is_done": 1,
     "groups": {
-      "General": 19,
+      "General": 20,
       "E-commerce": 3,
       "Entertainment": 11,
       "Development": 18
@@ -13,26 +13,26 @@
         "no_dark_mode": 29,
         "no_light_mode": 9,
         "no_release": 2,
-        "no_os_sync": 5,
+        "no_os_sync": 6,
         "buggy": 2,
         "requires_refresh": 3,
         "done": 1,
-        "total": 49,
+        "total": 50,
         "unknown": 0
       },
       "mobile": {
         "unknown": 2,
         "no_dark_mode": 3,
         "no_release": 30,
-        "done": 11,
+        "done": 12,
         "no_light_mode": 5,
-        "total": 21,
+        "total": 22,
         "no_os_sync": 0,
         "requires_refresh": 0,
         "buggy": 0
       },
       "desktop": {
-        "no_release": 42,
+        "no_release": 43,
         "no_light_mode": 6,
         "no_os_sync": 2,
         "done": 1,
@@ -406,6 +406,15 @@
       "mobile": "no_release",
       "desktop": "no_release",
       "url": "https://www.producthunt.com/notifications",
+      "group": "General",
+      "is_done": false
+    },
+    {
+      "name": "Reddit",
+      "web": "no_os_sync",
+      "mobile": "done",
+      "desktop": "no_release",
+      "url": "https://reddit.com/",
       "group": "General",
       "is_done": false
     },
