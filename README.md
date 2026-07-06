@@ -101,7 +101,7 @@ Operating systems should allow users to conveniently switch between light and da
 |-|-|-|-|-|
 |Light and dark themes|Yes|Yes|Yes|Yes|
 |Quick toggle|**No**|Yes|Yes|Yes|
-|Scheduled toggle|**No**|Yes|Yes|Yes|
+|Scheduled toggle|Yes|Yes|Yes|Yes|
 |API for apps|Yes|Yes|Yes|Yes|
 |Sync wallpaper|**No**|**No**|**No**|**No**|
 |Sync splash screens|–|–|**No**|**No**|
