@@ -96,6 +96,15 @@ Additional nice-to-haves: manual theme selection, OLED mode, good greyscale expe
 
 Operating systems should allow users to conveniently switch between light and dark mode, and optionally set the mode based on a schedule (such as sunrise/sunset). They should allow the wallpaper to be changed or adjusted based on which mode is in use. Unfortunately, there is still work to be done on this front.
 
+|Feature|Windows|macOS|Android|iOS|
+|-|-|-|-|-|
+|Light and dark themes|Yes|Yes|Yes|Yes|
+|Quick toggle|**No**|Yes|Yes|Yes|
+|Scheduled toggle|**No**|Yes|Yes|Yes|
+|API for apps|Yes|Yes|Yes|Yes|
+|Sync wallpaper|**No**|**No**|**No**|**No**|
+|Sync splash screens|–|–|**No**|**No**|
+
 ## API
 
 The offender data is available as JSON behind this URL:
